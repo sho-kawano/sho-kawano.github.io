@@ -3,43 +3,72 @@ layout: page
 title: About
 permalink: /about/
 image: /assets/img/laura.jpeg
-caption: Me and Laura in front of Mt.Whitney
+caption: Me and Laura in front of Mt.Whitney in Alabama Hills. 
 ---
 
-For a professional summary please [see my resume](/resume/).
+### Professional
 
-People often describe me as energetic, funny, and outgoing. I love traveling, cooking, practicing meditation, and spending time with my girlfriend Laura.   I'm also blessed to have many friends and a loving family.   
+For a full professional summary please [see my resume](https://drive.google.com/file/d/1Lr_RPlSyJhZZ1bWD8NxS_Ek1CBMjRqEL/view?usp=sharing), [CV](https://drive.google.com/file/d/1Sa3VebWWGolhA2q3mPoJ-6fwXHmzPDhv/view?usp=sharing).
 
-Recently, I've really gotten into playing softball and gardening.  I try to balance my career with being a happy human.
 
-Currently, I see *statistics* as my way of contributing (very small pieces) toward solutions to important societal problems through my career. I also believe that volunteering is super important because it's hard to get paid to fix systemic issues.  
+**HONORS**
+* Honorable Mention, NSF Graduate Student Fellowships Program (GRFP), 2021
+* Phi Beta Kappa and High Distinction in General Scholarship, UC Berkeley, 2017.
 
-* [Why Statistics?](https://sho-kawano.github.io/2021/09/08/why-stats/).
-* [Why I meditate.](https://sho-kawano.github.io/2021/09/27/why-meditate/)
-<!--- * [My evolving views on "doing good"](https://sho-kawano.github.io/) -->
+
+**EXPERIENCE**
+* Teaching Assistant, Sept, 2021 - Current
+  - UC Santa Cruz, Statistics Department
+* Research Data Analyst II, Oct, 2020—Jun, 2021.
+  - CA. Dept. of Healthcare Services, Local Government Financing
+* Staff Research Associate, Oct, 2019—Jul, 2020.
+  - Dept. of Atmospheric Chemistry, UC Davis
+* Data Science Intern, Aug, 2019-Nov, 2019.
+  - New Sun Road, P.B.C.
+* Quantitative Analyst, Apr, 2019-Feb, 2017.
+  - Intersect Power
+
+Additional internship experiences at SunPower Corporation and WattTime.org
+
+**EDUCATION**
+* PhD Student in Statistics,  2021—Current
+  - University of California, Santa Cruz
+* B.A. Statistics, High Honors, 2013-2017
+  - University of California, Berkeley
+
+
+***
+
+
+### Personal
+
+People often describe me as energetic, funny, and outgoing. I love traveling, cooking, sports, gardening, practicing meditation, and spending time with my girlfriend Laura.   I'm also blessed to have many friends and a loving family.   
+
+<!--- * [Here's why I like statistics.](https://sho-kawano.github.io/2021/09/08/why-stats/)
+* [Here's why I meditate.](https://sho-kawano.github.io/2021/09/27/why-meditate/)
+ * [My evolving views on "doing good"](https://sho-kawano.github.io/) -->
 
 #### My Life Path
 
 Long story short: I've been incredibly blessed.
 
-**I was born in Tokyo, Japan.**  My mom was born here while my grandpa was at CalTech [^1]. This is why my mom and I are both dual-citizens[^2]. Balancing my Japanese roots while being immersed a culture that is so different was challenging but rewarding.
+**I was born in Tokyo, Japan.**  My mom was born here while my grandpa was at CalTech [^1]. This is why my mom and I are both dual-citizens[^2]. Balancing my Japanese roots with my American upbringing was challenging but rewarding.
 
-**Grew up on the beautiful island of O'ahu.**  There's a saying that goes like: "you can take a person out of Hawai'i but you can't take Hawai'i out of a person".  I think this is true.  Hawaii is a very nurturing place with a laid-back communalism that doesn't stifle individuality.  
+**Grew up in Hawaii.**  You can take a person out of Hawai'i but you can't take Hawai'i out of a person. The islands are a gentle, beautiful place.
 
-**Moved to Northern California in 2008.** I had a blast at the Waldorf High School in Sacramento and a gentle introduction to the Mainland.  Took a 1/2 gap year to work on a political campaign which really connected me to Sacramento.
+**Moved to Northern California in 2008.** I had a blast at the Waldorf High School in Sacramento. Took a 1/2 gap year to work on a political campaign which really connected me to Sacramento.
 
-**East Bay.** I went to UC Berkeley intending to go into environmental law. But a talk with an environmental lawyer changed my mind.
-I took stats, decided to major in it but I was mostly interested in clean energy. I took more energy-related classes than stats.   After college, I worked for various clean energy companies while living in Oakland.
+**East Bay.** I went to UC Berkeley and decided to be a stats major. But I was mostly interested in clean energy and took more energy-related classes than stats/math.  After college, I worked for various clean energy companies while living in Oakland.
 
 **A trip of a lifetime.** In 2019, I was let go from what I thought was my dream job, had a quarter life crisis, and went on a "fuck it" trip to SE Asia. This turned out to be one of the greatest experiences of my life. I also met Laura when I came back to Oakland.
 
-**Back in Sacramento.** I moved back with Laura right before the pandemic. I worked at the CA Dept. of Healthcare Services as a Data Analyst.  My time at the State Government made me believe in the importance of people with technical skills contributing in civil service.
+**Back in Sacramento.** I moved back right before the pandemic. I worked at the State Government which made me believe in the importance of people with technical skills contributing in civil service.
 
-**Now:** Trying to become a bona-fide statistician.  Pursuing my PhD at UC Santa Cruz.
+**Now:** Pursuing my PhD at UC Santa Cruz. I spend most of my weekends in Sacramento.
 
 ***
 
-*Updated: Sept. 2021*
+*Updated: Sept. 2022*
 
-[^1]: He did his postdoc with Murray Gell-Man, a Nobel Laureate in Physics!  My grandpa is the Japanese Physicist Yasuo Hara.  He's always been a big insipiration for me.
-[^2]: I owe my citizenship to my grandparents and [the struggle of Chinese immigrants](https://en.wikipedia.org/wiki/United_States_v._Wong_Kim_Ark)
+[^1]: He did his postdoc with Murray Gell-Man.  My grandpa has always been a big insipiration for me.
+[^2]: [Thanks to the struggle of Chinese immigrants](https://en.wikipedia.org/wiki/United_States_v._Wong_Kim_Ark)
