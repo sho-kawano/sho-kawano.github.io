@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 image: /assets/img/laura.jpeg
-caption: Me and Laura in front of Mt.Whitney in Alabama Hills. 
+caption: Me and Laura in front of Mt.Whitney in Alabama Hills.
 ---
 
 ### Professional
@@ -54,17 +54,17 @@ Long story short: I've been incredibly blessed.
 
 **I was born in Tokyo, Japan.**  My mom was born here while my grandpa was at CalTech [^1]. This is why my mom and I are both dual-citizens[^2]. Balancing my Japanese roots with my American upbringing was challenging but rewarding.
 
-**Grew up in Hawaii.**  You can take a person out of Hawai'i but you can't take Hawai'i out of a person. The islands are a gentle, beautiful place.
+**Grew up in Hawaii.**  You can take a person out of Hawai'i but you can't take Hawai'i out of a person. Hawai'i is a gentle, beautiful place.
 
-**Moved to Northern California in 2008.** I had a blast at the Waldorf High School in Sacramento. Took a 1/2 gap year to work on a political campaign which really connected me to Sacramento.
+**Moved to Northern California in 2008.** I had a blast at the Waldorf High School in Sacramento. Took a 1/2 gap year to work on a political campaign which really connected me to the Sac community.
 
-**East Bay.** I went to UC Berkeley and decided to be a stats major. But I was mostly interested in clean energy and took more energy-related classes than stats/math.  After college, I worked for various clean energy companies while living in Oakland.
+**East Bay.** I went to UC Berkeley. As an undergrad, I was mostly interested in clean energy. I took more energy-related classes than stats/math.  After college, I worked for various clean energy companies while living in Oakland.
 
-**A trip of a lifetime.** In 2019, I was let go from what I thought was my dream job, had a quarter life crisis, and went on a "fuck it" trip to SE Asia. This turned out to be one of the greatest experiences of my life. I also met Laura when I came back to Oakland.
+**A trip of a lifetime.** In 2019, I was let go from what I thought was my dream job and went on a "fuck it" trip to SE Asia. This turned out to be one of the greatest experiences of my life. I also met Laura when I came back to Oakland.
 
 **Back in Sacramento.** I moved back right before the pandemic. I worked at the State Government which made me believe in the importance of people with technical skills contributing in civil service.
 
-**Now:** Pursuing my PhD at UC Santa Cruz. I spend most of my weekends in Sacramento.
+**Now:** Pursuing my PhD at UC Santa Cruz. I successfully finished my first year! I spend most of my weekends in Sacramento.
 
 ***
 
