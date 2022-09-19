@@ -64,7 +64,18 @@ Long story short: I've been incredibly blessed.
 
 **Back in Sacramento.** I moved back right before the pandemic. I worked at the State Government which made me believe in the importance of people with technical skills contributing in civil service.
 
-**Now:** Pursuing my PhD at UC Santa Cruz. I successfully finished my first year! I spend most of my weekends in Sacramento.
+**Now:** Pursuing my PhD at UC Santa Cruz. I successfully finished my first year! I split my time between Santa Cruz and Sacramento.
+
+#### Friends
+
+Here are some of my awesome friends (with Personal/Professional Websites):
+
+* [Kunal Marwaha](https://kunalmarwaha.com)
+* [Seokjun Choi](https://letsjdosth.github.io)
+* [Antonio (Jose Antonio Aguirre Perez De Leon)](https://antonio-deleon.github.io)
+* [Clairce Cho](http://claricecho.com)
+* [Gautam Machiraju](https://gmachiraju.github.io)
+
 
 ***
 

@@ -15,16 +15,15 @@ caption:
 
 General Research Interests:
 
-* Official Statistics 
-* Small Area Estimation and other model-based inference of survey data
-* Dependent Data Modeling (spatial, temporal)
+* Official Statistics
+* Dependent Data Modeling (Spatial, Temporal)
+* Small Area Estimation
 * Bayesian Methods
-* Application in Public Policy and Ecology
+* Application in Public Policy, Public Health, and Ecology
 
-I currently focus on Bayesian Small Area Estimation models. I am working on an extension to the Fay-Herriot Model using a spatial spike & slab prior.
+My current research focus is on Bayesian Small Area Estimation models. I am working on extending the Fay-Herriot Model using a spike & slab prior with spatial dependence.  
 
-Generally speaking, I believe [official statistics](https://en.wikipedia.org/wiki/Official_statistics) presents so many possibilities for statisticians to connect their work to public policy.
-
+I am co-advised by [Zehang Li](https://zehangli.com) and [Paul Parker](https://www.paparkerstat.com).
 
 ***
 
