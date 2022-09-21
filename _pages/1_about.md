@@ -67,7 +67,7 @@ Long story short: I've been incredibly blessed.
 
 **Now:**  Splitting my time between Santa Cruz and Sacramento while I go to grad school. I play softball, bike around, and garden on my spare time.
 
-#### Friends
+#### Friends / Mentors
 
 Here are some of my awesome friends (with Personal/Professional Websites):
 
@@ -77,7 +77,7 @@ Here are some of my awesome friends (with Personal/Professional Websites):
 * [Clairce Cho](http://claricecho.com)
 * [Gautam Machiraju](https://gmachiraju.github.io)
 
-#### People I look up to
+People I look up to:
 
 * [Gavin McCormick](https://www.watttime.org/author/gavin-mccormick/)
 * [Jim Keddy](https://www.youth-forward.org/our-team.html)
