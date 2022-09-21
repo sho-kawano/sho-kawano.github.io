@@ -10,8 +10,6 @@ caption: Me and Laura in front of Mt.Whitney in Alabama Hills.
 
 For a full professional summary please [see my resume](https://drive.google.com/file/d/1Lr_RPlSyJhZZ1bWD8NxS_Ek1CBMjRqEL/view?usp=sharing), [CV](https://drive.google.com/file/d/1Sa3VebWWGolhA2q3mPoJ-6fwXHmzPDhv/view?usp=sharing).
 
-Recent Update: Passed my prelim exam!  Thank god. 
-
 **HONORS**
 * Honorable Mention, NSF Graduate Student Fellowships Program (GRFP), 2021
 * Phi Beta Kappa and High Distinction in General Scholarship, UC Berkeley, 2017.
@@ -43,7 +41,9 @@ Additional internship experiences at SunPower Corporation and WattTime.org
 
 ### Personal-ish
 
-People often describe me as energetic, funny, and outgoing. I love traveling, cooking, sports, gardening, practicing meditation, and spending time with my girlfriend Laura.   I'm also blessed to have many friends and a loving family.   
+People often describe me as energetic, funny, and outgoing. I love traveling, cooking, sports, gardening, and spending time with my girlfriend Laura.  I generally value experiences more than things. I'm also blessed to have many friends and a loving family.   
+
+Insight meditation has had a big influence on my life.
 
 <!--- * [Here's why I like statistics.](https://sho-kawano.github.io/2021/09/08/why-stats/)
 * [Here's why I meditate.](https://sho-kawano.github.io/2021/09/27/why-meditate/)
@@ -57,15 +57,15 @@ Long story short: I've been incredibly blessed.
 
 **Grew up in Hawaii.** Hawai'i is a gentle, beautiful place. So lucky to have grown up there.
 
-**Moved to Northern California in 2008.** I had a blast at the Waldorf High School in Sacramento. I love Sacramento's down-to-earth sleepy feel and the best coffee scene in CA.
+**Moved to Northern California in 2008.** I went to a Waldorf High School in Sacramento, which is basically an art/hippy school. I love Sacramento.
 
-**East Bay.** I went to UC Berkeley. As an undergrad, I was mostly interested in clean energy (more than stats or math).  After college, I worked for various clean energy companies while living in Oakland.
+**East Bay.** I went to UC Berkeley. As an undergrad, I was mostly interested in clean energy (more than stats).  After college, I worked for various clean energy companies while living in Oakland.
 
-**A trip of a lifetime.** In 2019, let go from what I thought was my dream job. I went on a "fuck it" trip to SE Asia. which a trip of a lifetime. I also met Laura when I came back to Oakland, which is the greatest thing that has ever happened to me.
+**A trip of a lifetime.** In 2019, let go from what I thought was my dream job. I went on a "fuck it" trip to SE Asia. This was a trip of a lifetime and I caught a serious case of the travel bug. I met Laura when I came back to Oakland, which is the greatest thing that has ever happened to me.
 
 **Back in Sacramento.** I moved back right before the pandemic. I worked at the State Government which made me believe in the importance of people with technical skills contributing in civil service.
 
-**Now:**  Splitting my time between Santa Cruz and Sacramento while I go to grad school. I play softball and garden on my spare time.
+**Now:**  Splitting my time between Santa Cruz and Sacramento while I go to grad school. I play softball, bike around, and garden on my spare time.
 
 #### Friends
 
@@ -77,6 +77,13 @@ Here are some of my awesome friends (with Personal/Professional Websites):
 * [Clairce Cho](http://claricecho.com)
 * [Gautam Machiraju](https://gmachiraju.github.io)
 
+#### People I look up to
+
+* [Gavin McCormick](https://www.watttime.org/author/gavin-mccormick/)
+* [Jim Keddy](https://www.youth-forward.org/our-team.html)
+* [Rich Howard](http://sactoinsight.org/about-us/faculty/)
+* [Alexis Santos](https://www.alexissantos.io)
+* [Alexander Coward](https://alexandercoward.com)
 
 ***
 
