@@ -8,7 +8,7 @@ url: https://shonomercy.github.io # the base hostname & protocol for your site, 
 # Author Settings
 author:
   name: Sho Kawano
-  image: '/assets/img/aboutme.jpeg'
+  image: '/assets/img/about.jpg'
   job: Welcome to my page!
   bio: |+
     <br />
