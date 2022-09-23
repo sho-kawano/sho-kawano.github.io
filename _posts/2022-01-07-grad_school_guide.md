@@ -19,7 +19,7 @@ Needless to say, I had a very un-linear path to get here. Given the rise in the 
 ## 0. Actually apply to programs that suit you.
 
 If you're not a match but are admitted anyway, you won't enjoy it.  Trust me, I just went through my prelims.
-Hit up the GradCafe forums if you need want to be assessed.  
+Hit up the GradCafe forums if you want a honest assessment.  
 
 Also hit up current grad students in potential programs of interest.
 
