@@ -7,7 +7,8 @@ I made some major edits to the Derrick blogging theme to make it more suitable f
 My goal was to create an academic page that has a more photographer-blog like feel. 
 
 Changes made to original Derrick Theme:
-* Moved the blogroll/posts away from the main page to its own section.
+* Wider texts for the main page.  Moved the blogroll/posts away from the main page to its own section.
+* Modified textsize for pages and posts
 * Added caption to the main photo for pages and posts
 * Edited the posts to make the main content rolls up together with the header
 * Edited the formatting of the posts (smaller font, mostly)
