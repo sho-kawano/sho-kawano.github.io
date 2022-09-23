@@ -39,8 +39,6 @@ Additional internship experiences at SunPower Corporation and WattTime.org
 ***
 
 
-### Personal-ish
-
 People often describe me as energetic, funny, and outgoing. I love traveling, cooking, sports, gardening, and spending time with my girlfriend Laura.  I generally value experiences more than things. I'm also blessed to have many friends and a loving family.   
 
 Insight meditation has had a big influence on my life.
@@ -49,9 +47,7 @@ Insight meditation has had a big influence on my life.
 * [Here's why I meditate.](https://sho-kawano.github.io/2021/09/27/why-meditate/)
  * [My evolving views on "doing good"](https://sho-kawano.github.io/) -->
 
-#### My Life Path
-
-Long story short: I've been incredibly blessed.
+#### A Few Highlights
 
 **I was born in Tokyo, Japan.**  My mom was born here while my grandpa was at CalTech [^1]. This is why my mom and I are both dual-citizens[^2]. Balancing my Japanese roots with my American upbringing was challenging but rewarding.
 

@@ -13,13 +13,13 @@ caption:
 
 <br />
 
-General Research Interests:
+I am broadly interested in developing statistical tools for applications relevant to public policy and public health.
+More specifically I'm interested in:
 
 * Official Statistics
 * Dependent Data Modeling (Spatial, Temporal)
 * Small Area Estimation
 * Bayesian Methods
-* Application in Public Policy, Public Health, and Ecology
 
 My current research focus is on Bayesian Small Area Estimation models. I am working on extending the Fay-Herriot Model using a spike & slab prior with spatial dependence.  
 
