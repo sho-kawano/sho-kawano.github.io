@@ -6,6 +6,8 @@ image: /assets/img/laura.jpeg
 caption: Me and Laura in front of Mt.Whitney in Alabama Hills.
 ---
 
+I've split this page into professional and personal sections
+
 ### Resume
 
 For a full professional summary please [see my resume](https://drive.google.com/file/d/1Lr_RPlSyJhZZ1bWD8NxS_Ek1CBMjRqEL/view?usp=sharing), [CV](https://drive.google.com/file/d/1Sa3VebWWGolhA2q3mPoJ-6fwXHmzPDhv/view?usp=sharing).
@@ -38,10 +40,11 @@ Additional internship experiences at SunPower Corporation and WattTime.org
 
 ***
 
+### Personal
 
 People often describe me as energetic, funny, and outgoing. I love traveling, cooking, sports, gardening, and spending time with my girlfriend Laura.  I generally value experiences more than things. I'm also blessed to have many friends and a loving family.   
 
-Insight meditation has had a big influence on my life.
+Insight Meditation practice & philosophy has had a big influence on my life.
 
 <!--- * [Here's why I like statistics.](https://sho-kawano.github.io/2021/09/08/why-stats/)
 * [Here's why I meditate.](https://sho-kawano.github.io/2021/09/27/why-meditate/)
@@ -55,7 +58,7 @@ Insight meditation has had a big influence on my life.
 
 **Moved to Northern California in 2008.** I went to a Waldorf High School in Sacramento, which is basically an art/hippy school. I love Sacramento.
 
-**East Bay.** I went to UC Berkeley. As an undergrad, I was mostly interested in clean energy (more than stats).  After college, I worked for various clean energy companies while living in Oakland.
+**East Bay.** As an undergrad at Berkeley, I was mostly interested in clean energy (more than stats).  During and after college, I worked for various clean energy companies.
 
 **A trip of a lifetime.** In 2019, let go from what I thought was my dream job. I went on a "fuck it" trip to SE Asia. This was a trip of a lifetime and I caught a serious case of the travel bug. I met Laura when I came back to Oakland, which is the greatest thing that has ever happened to me.
 
