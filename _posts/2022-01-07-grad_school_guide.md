@@ -27,12 +27,12 @@ Also hit up current grad students in potential programs of interest.
 Admissions are becoming even more competitive (especially for PhD programs). So prior depth of math/stats background is apparently becoming more important to differentiate oneself from other applicants.
 
 For Masters programs: there's a lot of variance in terms of what different program expects from their Master-level Students.
-Some expect almost zero background, some may require more. It totally depends.  At a minimum, I would say you should have taken the calc series (I-III), linear algebra, probability.  If you don’t have this background, it’s ok.  See pt 2.
+Some expect almost zero background, some may require more.　It totally depends.  At a minimum, I would say you should have taken the calc series (I-III), linear algebra, probability.  If you don’t have this background, it’s ok.  See pt 2.
 
-For PhD programs: You really should take Real Analysis & upper division algebra. But I’d take more if time/budget allows (stochastic processes, optimization, etc). You should also be comfortable writing proofs (especially for programs that emphasize asymptotics) and coding well (R, Python or whatever language) but you don't necessarily need to take a course on it.  If you don’t have a strong math background, it’s ok.  See pt 2.
+For PhD programs: You really should take Real Analysis & upper division algebra. But I’d take more if time/budget allows (stochastic processes, optimization, etc). You should also be comfortable writing proofs (especially for programs that emphasize asymptotics/measure-theoretic probability theory) and coding well (R, Python or whatever language) but you don't necessarily need to take a course on it.  If you don’t have a strong math background, it’s ok.  See pt 2.
 
 ## 2. … but there are ways to make it up, even after graduating.
-If you want to improve your math/stats background, I recommend NethMath, the UIUC program run by their math department that is fully online.It is well designed for remote instruction and is cheaper than enrolling as a non-matriculated student.It allows you to take classes while working as well. Another plus is that the transcript they produce is indistinguishable from UIUC's normal classes.
+If you want to improve your math/stats background, I recommend NethMath, the UIUC program run by their math department that is fully online. It is well designed for remote instruction and is cheaper than enrolling as a non-matriculated student. It allows you to take classes while working as well. Another plus is that the transcript they produce is indistinguishable from UIUC's normal classes.
 
 Though adcoms won’t care about it, you may also want more hands-on training, especially for proof-writing. If you're interested, [see this link](https://edeeu.education).
 
