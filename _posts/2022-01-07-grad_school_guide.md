@@ -12,18 +12,21 @@ Updated: Sept 2022.
 **My guidance may be more useful for “atypical” candidates or candidates whose undergrad math background is not particularly deep.**
 
 I came into undergrad wanting to study environmental policy.  I discovered stats my sophomore year and had to go back to community college in order to switch!  Even after switching to stats, I had ZERO intentions of going to grad school.  I honestly thought it was overkill.  But instead of being a "data analyst" I wanted to be a proper statistician which meant grad school is almost a must.
-Needless to say, I had a very un-linear path to get here. Given the rise in the competitiveness of admissions, I feel very fortunate to have acceptances into a few programs in California.  😄
+Needless to say, I had a very un-linear path to get here. Given the rise in the competitiveness of admissions, I feel very fortunate to have acceptances into a few PhD programs in California.  😄
 
 ***
 
 ## 0. Actually apply to programs that suit you.
 
 If you're not a match but are admitted anyway, you won't enjoy it.  Trust me, I just went through my prelims.
-Hit up the gradcafe forums if you need want to be assessed. 
+Hit up the GradCafe forums if you need want to be assessed.  
+
+Also hit up current grad students in potential programs of interest.
 
 ## 1. Depth of math background matters a lot.
-Admissions are becoming even more competitive. So the depth of math background is apparently becoming more important to differentiate oneself from other applicants.
-You really should take Real Analysis & upper division algebra. But I’d take more if time/budget allows (stochastic processes, optimization, etc). You should also know how to code well (R, Python or whatever language) but you don't necessarily need to take a course on it.  If you don’t have a strong math background, it’s ok.  See pt 2.
+Admissions are becoming even more competitive (especially for PhD programs). So the depth of math background is apparently becoming more important to differentiate oneself from other applicants.
+
+For PhD students: You really should take Real Analysis & upper division algebra. But I’d take more if time/budget allows (stochastic processes, optimization, etc). You should also know how to code well (R, Python or whatever language) but you don't necessarily need to take a course on it.  If you don’t have a strong math background, it’s ok.  See pt 2.
 
 ## 2. … but there are ways to make it up, even after graduating.
 If you want to improve your math background, I recommend NethMath, the UIUC program run by their math department that is fully online.
