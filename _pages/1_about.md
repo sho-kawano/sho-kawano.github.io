@@ -3,33 +3,31 @@ layout: page
 title: About
 permalink: /about/
 image: /assets/img/laura.jpeg
-caption: Me and Laura in front of Mt.Whitney in Alabama Hills.
+caption: Me and Laura in front of Mt. Whitney in Alabama Hills.
 ---
-
-I've split this page into professional and personal sections
 
 ### Resume
 
-For a full professional summary please [see my resume](https://drive.google.com/file/d/1Lr_RPlSyJhZZ1bWD8NxS_Ek1CBMjRqEL/view?usp=sharing), [CV](https://drive.google.com/file/d/1Sa3VebWWGolhA2q3mPoJ-6fwXHmzPDhv/view?usp=sharing).
+For a full professional summary please [see my CV](https://drive.google.com/file/d/1Sa3VebWWGolhA2q3mPoJ-6fwXHmzPDhv/view?usp=sharing)
+or [my resume](https://drive.google.com/file/d/1Lr_RPlSyJhZZ1bWD8NxS_Ek1CBMjRqEL/view?usp=sharing), .
 
 **HONORS**
 * Honorable Mention, NSF Graduate Student Fellowships Program (GRFP), 2021
-* Phi Beta Kappa and High Distinction in General Scholarship, UC Berkeley, 2017.
-
+* Phi Beta Kappa & High Distinction in General Scholarship, UC Berkeley, 2017.
 
 **EXPERIENCE**
-* Teaching Assistant, Sept, 2021 - Current
+* Teaching Assistant, Sept. 2021 - Current
   - UC Santa Cruz, Statistics Department
-* Research Data Analyst II, Oct, 2020—Jun, 2021.
+* Research Data Analyst II, Oct. 2020—Jun, 2021.
   - CA. Dept. of Healthcare Services, Local Government Financing
-* Staff Research Associate, Oct, 2019—Jul, 2020.
+* Staff Research Associate, Oct. 2019—Jul. 2020.
   - Dept. of Atmospheric Chemistry, UC Davis
-* Data Science Intern, Aug, 2019-Nov, 2019.
+* Data Science Intern, Aug. 2019-Nov. 2019.
   - New Sun Road, P.B.C.
-* Quantitative Analyst, Apr, 2019-Feb, 2017.
+* Quantitative Analyst, Apr. 2019-Feb. 2017.
   - Intersect Power
 
-Additional internship experiences at SunPower Corporation and WattTime.org
+Additional Internship experiences at SunPower Corporation and WattTime.org
 
 **EDUCATION**
 * PhD Student in Statistics,  2021—Current
@@ -46,10 +44,6 @@ People often describe me as energetic, funny, and outgoing. I love traveling, co
 
 Insight Meditation practice & philosophy has had a big influence on my life.
 
-<!--- * [Here's why I like statistics.](https://sho-kawano.github.io/2021/09/08/why-stats/)
-* [Here's why I meditate.](https://sho-kawano.github.io/2021/09/27/why-meditate/)
- * [My evolving views on "doing good"](https://sho-kawano.github.io/) -->
-
 #### A Few Highlights
 
 **I was born in Tokyo, Japan.**  My mom was born here while my grandpa was at CalTech [^1]. This is why my mom and I are both dual-citizens[^2]. Balancing my Japanese roots with my American upbringing was challenging but rewarding.
@@ -60,13 +54,13 @@ Insight Meditation practice & philosophy has had a big influence on my life.
 
 **East Bay.** As an undergrad at Berkeley, I was mostly interested in clean energy (more than stats).  During and after college, I worked for various clean energy companies.
 
-**A trip of a lifetime.** In 2019, let go from what I thought was my dream job. I went on a "fuck it" trip to SE Asia. This was a trip of a lifetime and I caught a serious case of the travel bug. I met Laura when I came back to Oakland, which is the greatest thing that has ever happened to me.
+**A trip of a lifetime.** In 2019, let go from what I thought was my dream job. I went on a "fuck it" trip to SE Asia. This was a trip of a lifetime. I caught a serious case of the travel bug which continues to this day. I met Laura when I came back to Oakland, which is the greatest thing that has ever happened to me.
 
 **Back in Sacramento.** I moved back right before the pandemic. I worked at the State Government which made me believe in the importance of people with technical skills contributing in civil service.
 
 **Now:**  Splitting my time between Santa Cruz and Sacramento while I go to grad school. I play softball, bike around, and garden on my spare time.
 
-#### Friends 
+#### Friends
 
 Here are some of my awesome friends (with Personal/Professional Websites):
 
@@ -79,7 +73,7 @@ Here are some of my awesome friends (with Personal/Professional Websites):
 
 ***
 
-*Updated: Sept. 2022*
+*Updated: Oct. 2022*
 
 [^1]: He did his postdoc with Murray Gell-Man.  My grandpa has always been a big insipiration for me.
 [^2]: [Thanks to the struggle of Chinese immigrants](https://en.wikipedia.org/wiki/United_States_v._Wong_Kim_Ark)

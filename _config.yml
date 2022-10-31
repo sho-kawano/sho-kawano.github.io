@@ -1,8 +1,8 @@
 title: Sho Kawano
 logo:  # you can add own logo.
 description:
-baseurl:
-url: https://shonomercy.github.io # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: https://sho-kawano.github.io
+url: https://sho-kawano.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Author Settings
@@ -22,7 +22,7 @@ author:
     <br />
     This site is a blend of professional/personal content.
     <br />
-    My career is only a part of who I am.  :) 
+    My career is only a part of who I am.  :)
     <br />
   resume: https://drive.google.com/file/d/1Lr_RPlSyJhZZ1bWD8NxS_Ek1CBMjRqEL/view?usp=sharing
   email: shkawano@ucsc.edu
