@@ -1,7 +1,7 @@
 title: Sho Kawano
 logo:  # you can add own logo.
 description:
-baseurl: https://sho-kawano.github.io
+baseurl:
 url: https://sho-kawano.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
 

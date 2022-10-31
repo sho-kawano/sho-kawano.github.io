@@ -4,7 +4,6 @@ title:  Why I meditate
 date:   2021-09-27
 image: /assets/img/sagaing.jpeg
 caption: Sagaing, Myanmar.  
-tags:   [meditation, beliefs, blog]
 ---
 
 

@@ -4,7 +4,6 @@ title:  Unconventional Candidate's Guide to Stats Grad Programs
 date:   2022-01-07 14:00:00
 image: /assets/img/bangkok_airport.jpeg
 caption: In Bangkok. Taken by Bas Glaap (@basglaap on insta).
-tags:   [grad_school, statistics]
 ---
 
 Updated: Sept 2022.

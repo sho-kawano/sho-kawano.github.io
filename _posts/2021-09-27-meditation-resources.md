@@ -4,7 +4,6 @@ title:  Meditation Resources
 date:   2021-09-27
 image: /assets/img/bagan.jpeg
 caption: In the ruins of Bagan, Myanmar. Taken by Cait (see insta below).    
-tags:   [meditation, beliefs, blog]
 ---
 
 > Consider meditation and the unfolding of wisdom more like a marathon than a sprint.  Be willing to learn from everything.  This practice is for life. - Shwe Oo Min Sayadaw
