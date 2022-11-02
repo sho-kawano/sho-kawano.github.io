@@ -23,6 +23,9 @@ More specifically I'm interested in:
 
 My current research focus is on Bayesian Small Area Estimation models. I am working on extending the Fay-Herriot Model using a spike & slab prior with spatial dependence.  
 
+[Here is an overview](https://drive.google.com/open?id=1zIaldyrHaE5IWIKnQ0_-58uwooxl8CAs&authuser=shokawano5%40gmail.com&usp=drive_fs) from my recent NSF Submission.
+
+
 I am co-advised by [Zehang Li](https://zehangli.com) and [Paul Parker](https://www.paparkerstat.com).
 
 ***
