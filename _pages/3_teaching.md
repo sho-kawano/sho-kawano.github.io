@@ -5,6 +5,9 @@ permalink: /teaching/
 image:
 ---
 
+Teaching is arguably the most impactful part of my graduate training.
+I love teaching introductory statistics!
+
 The following are the classes I have TA-ed for at UC Santa Cruz.
 If you're a TA and would like access to any of my slides or materials, please contact me.
 

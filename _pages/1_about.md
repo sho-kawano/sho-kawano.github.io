@@ -50,11 +50,11 @@ Insight Meditation practice & philosophy has had a big influence on my life.
 
 **Grew up in Hawaii.** Hawai'i is a gentle, beautiful place. So lucky to have grown up there.
 
-**Moved to Northern California in 2008.** I went to a Waldorf High School in Sacramento, which is basically an art/hippy school. I love Sacramento.
+**Moved to Northern California in 2008.** I went to a Waldorf High School in Sacramento, which is artsy/hippy school. I love Sacramento.
 
 **East Bay.** As an undergrad at Berkeley, I was mostly interested in clean energy (more than stats).  During and after college, I worked for various clean energy companies.
 
-**A trip of a lifetime.** In 2019, let go from what I thought was my dream job. I went on a "fuck it" trip to SE Asia. This was a trip of a lifetime. I caught a serious case of the travel bug which continues to this day. I met Laura when I came back to Oakland, which is the greatest thing that has ever happened to me.
+**A trip of a lifetime.** In 2019, let go from what I thought was my dream job. I went on a "fuck it" trip to SE Asia. This was a trip of a lifetime. I caught and still have a serious case of the travel bug. I met Laura when I came back to Oakland, which is the greatest thing that has ever happened to me.
 
 **Back in Sacramento.** I moved back right before the pandemic. I worked at the State Government which made me believe in the importance of people with technical skills contributing in civil service.
 
