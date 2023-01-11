@@ -21,7 +21,7 @@ More specifically I'm interested in:
 * Small Area Estimation
 * Bayesian Methods
 
-My current research focus is on Bayesian Small Area Estimation models. I am working on extending the Fay-Herriot Model using a spike & slab prior with spatial dependence.  
+My current research focus is on Bayesian Small Area Estimation models.
 
 
 I am co-advised by [Zehang Li](https://zehangli.com) and [Paul Parker](https://www.paparkerstat.com).
