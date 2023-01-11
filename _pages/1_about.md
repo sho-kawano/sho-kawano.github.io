@@ -40,9 +40,9 @@ Additional Internship experiences at SunPower Corporation and WattTime.org
 
 ### Personal
 
-People often describe me as energetic, funny, and outgoing. I love traveling, cooking, sports, gardening, and spending time with my girlfriend Laura.  I generally value experiences more than things. I'm also blessed to have many friends and a loving family.   
+I'm always changing but people often describe me as energetic, funny, and open. I love traveling, cooking, sports, gardening, and spending time with my girlfriend Laura.  I try to value experiences more than stuff. I'm also blessed to have many friends and a loving family.   
 
-Insight Meditation practice & philosophy has had a big influence on my life.
+Insight Meditation practice & philosophy has and continues to change my life for the better.
 
 #### A Few Highlights
 
@@ -52,9 +52,9 @@ Insight Meditation practice & philosophy has had a big influence on my life.
 
 **Moved to Northern California in 2008.** I went to a Waldorf High School in Sacramento, which is artsy/hippy school. I love Sacramento.
 
-**East Bay.** As an undergrad at Berkeley, I was mostly interested in clean energy (more than stats).  During and after college, I worked for various clean energy companies.
+**East Bay.** As an undergrad at Berkeley, I was mostly interested in clean energy (stats was secondary).  During and after college, I worked for a major solar energy developer.
 
-**A trip of a lifetime.** In 2019, let go from what I thought was my dream job. I went on a "fuck it" trip to SE Asia. This was a trip of a lifetime. I caught and still have a serious case of the travel bug. I met Laura when I came back to Oakland, which is the greatest thing that has ever happened to me.
+**A trip of a lifetime.** In 2019, let go from what I thought was my dream job. I went on a life altering trip to SE Asia. I caught and still have a serious case of the travel bug. I met Laura when I came back to Oakland, the greatest thing that has ever happened to me.
 
 **Back in Sacramento.** I moved back right before the pandemic. I worked at the State Government which made me believe in the importance of people with technical skills contributing in civil service.
 
