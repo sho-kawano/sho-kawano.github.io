@@ -92,7 +92,7 @@ This is a gnarly example of the counter-intuitive nature of probability.
 This is related to the [Berkson's Paradox](https://en.wikipedia.org/wiki/Berkson%27s_paradox)!
 
 
-Note that one way to look at independence of two events \\(P(A \mid B) = P(A) \\)is to think about things this way:
+Note that one way to look at independence of two events \\( A \mid B = A \\)is to think about things this way:
 
 > ...  knowing the outcome of event B has no impact on the likelihood of A happening.
 
