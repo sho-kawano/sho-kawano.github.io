@@ -105,7 +105,7 @@ In this case, we are given that someone has weird symptoms: \\(W \\).
 Then two events we are considering are:  \\(D_1 \mid  W \\)and \\(D_2 \mid  W\\).
 Since we are given \\(W \\), they must have \\(D_1 \\)and \\(D_2 \\)since \\(w_0=0\\).
 
-Suppose you know that they don't have \\(D_1\\).  Then they MUST have \\(D_2 \\)since they have weird symptoms.
+Suppose you know that they don't have \\(D_1\\).  Then they MUST have \\(D_2 \\) since they have weird symptoms.
 Hence knowing \\(D_1 \mid W \\)impacts the likelihood of \\(D_2 \mid W\\).
 
 The only way \\(D_1 \mid  W \\)and \\(D_2 \mid  W \\)are independent is if \\(w_0=1\\).
