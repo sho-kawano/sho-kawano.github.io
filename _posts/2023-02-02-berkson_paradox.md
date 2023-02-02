@@ -18,7 +18,7 @@ One of the joys/horrors of TA-ing is that you always encounter things that stump
 **NOTE**: Feel free to jump to (d) since this is long.
 
 
-### (a) Find \\(P(W)$$
+### (a) Find \\(P(W)\\)
 
 We can use the Law of Total Probability (LOTP).
 
@@ -43,7 +43,7 @@ Thus we have \\(P(W) = 1 ( p_1  + p_2 - p_1p_2) + w_0 q_1 q_2$$.
 
 
 ### (b)
-#### Find \\(P(D_i \mid W)$$
+#### Find \\(P(D_i \mid W)\\)
 
 We need to find the prob. that you have disease \\(i \\)given weird symptoms
 Note that using the formula for conditional probability:
@@ -56,7 +56,7 @@ Using result from (a), for \\(i=1,2 \\)we have:
  \\[ P(Di \mid W) = \frac{P(D_i)}  {P(W)} = \frac{p_i} {( p_1  + p_2 - p_1p_2) +w_0 q_1q_2}  . \\]
 
 
-#### Find \\(P(D_1 \cap D_2 \mid W)$$
+#### Find \\(P(D_1 \cap D_2 \mid W)\\)
 We need to find the prob. that you have both diseases given weird symptoms
 We can solve things in a similar fashion:
 \\[ P(D_1 \cap D_2 \mid W) =\frac{P( W \mid D_1 \cap D_2) P(D_1 \cap D_2)}  {P(W)}   = \frac {P(D_1 D_2)} {P(W)} = \frac{ p_1 p_2 }{( p_1  + p_2 - p_1p_2) +w_0 q_1q_2}.\\]
