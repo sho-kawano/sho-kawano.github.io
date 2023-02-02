@@ -25,8 +25,8 @@ We can use the Law of Total Probability (LOTP).
 
 ![]({{site.baseurl}}/assets/img/berkson/LOPT.png)
 
-So let \\(D_1 \cup D_2 \\)be the event that you have at least one disease.  
-Let \\(D_1^c \cap D_2^c \\)be the probability that you have neither.
+So let \\(D_1 \cup D_2 \\) be the event that you have at least one disease.  
+Let \\(D_1^c \cap D_2^c \\) be the probability that you have neither.
 
 Then  
 
@@ -45,13 +45,13 @@ Thus we have \\(P(W) = 1 ( p_1  + p_2 - p_1p_2) + w_0 q_1 q_2\\).
 ### (b)
 #### Find \\(P(D_i \mid W)\\)
 
-We need to find the prob. that you have disease \\(i \\)given weird symptoms
+We need to find the prob. that you have disease \\(i \\) given weird symptoms
 Note that using the formula for conditional probability:
  \\[ P(Di \mid W) = \frac{P(D_i \cap W)} {P(W)} = \frac{P( W \mid Di) P(Di)}  {P(W)}   \\]
 
 We already know \\(P( W \mid Di)= 1\\).  
 
-Using result from (a), for \\(i=1,2 \\)we have:
+Using result from (a), for \\(i=1,2 \\) we have:
 
  \\[ P(Di \mid W) = \frac{P(D_i)}  {P(W)} = \frac{p_i} {( p_1  + p_2 - p_1p_2) +w_0 q_1q_2}  . \\]
 
@@ -62,7 +62,7 @@ We can solve things in a similar fashion:
 \\[ P(D_1 \cap D_2 \mid W) =\frac{P( W \mid D_1 \cap D_2) P(D_1 \cap D_2)}  {P(W)}   = \frac {P(D_1 D_2)} {P(W)} = \frac{ p_1 p_2 }{( p_1  + p_2 - p_1p_2) +w_0 q_1q_2}.\\]
 
 
-###  (c)  Are \\(D_1, D_2 \\)conditionally independent on \\(W \\)?
+###  (c)  Are \\(D_1, D_2 \\) conditionally independent on \\(W \\)?
 
  Note that for conditional independence to be possible we must have
  \\(P(D_1 \cap D_2\mid W) = P(D_1\mid W)  P(D_2\mid W). \\)  
@@ -106,9 +106,9 @@ Then two events we are considering are:  \\(D_1 \mid  W \\)and \\(D_2 \mid  W\\)
 Since we are given \\(W \\), they must have \\(D_1 \\)and \\(D_2 \\)since \\(w_0=0\\).
 
 Suppose you know that they don't have \\(D_1\\).  Then they MUST have \\(D_2 \\) since they have weird symptoms.
-Hence knowing \\(D_1 \mid W \\)impacts the likelihood of \\(D_2 \mid W\\).
+Hence knowing \\(D_1 \mid W \\) impacts the likelihood of \\(D_2 \mid W\\).
 
-The only way \\(D_1 \mid  W \\)and \\(D_2 \mid  W \\)are independent is if \\(w_0=1\\).
+The only way \\(D_1 \mid  W \\) and \\(D_2 \mid  W \\) are independent is if \\(w_0=1\\).
 In that case \\(w_0 q_1q_2 = 1-p_1 -p_2 +p_1 p_2 \\)and
  \\(P(W) = (p_1  + p_2 - p_1p_2)  + (1-p_1 -p_2 +p_1 p_2) =1 \\)(everyone has the disease).
 Then knowing \\(W \\)won't change anything since everyone has weird symptoms.
