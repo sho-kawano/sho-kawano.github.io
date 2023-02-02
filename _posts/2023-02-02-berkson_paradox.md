@@ -9,11 +9,12 @@ usemathjax: true
 
 Written for STAT 131.
 
-One of the joys/horrors of TA-ing is that you always encounter things that stumps you as well as your students (especially in probability). Here is a very basic looking problem that stumped me from *Introduction to Probability by Joe Blitzstein and Jessica Hwang*:
+One of the joys/horrors of TA-ing is that you always encounter things that stumps you as well as your students (especially in probability). Here is a very basic looking problem that stumped me from *Introduction to Probability by Joe Blitzstein and Jessica Hwang* (Ch2 Q37):
+
 <br />
 
+> Two different dieseases cause a certain weird symptom: anyone who has either or both of these dieseases will experience the symptom.  Let \\(D_1 \\) be the event of having the first disease, \\(D_2 \\) be the event of having the second, and \\(W \\) be the event of having the weird symptom. Suppose \\(D_1 \\) and \\(D_2 \\) are independent with \\(P(D_j) = p_j \\) and that a person with neither disease will have the weird symptom with probability \\(w_0 \\). Let \\(q_j =1-p_j \\).
 
-![]({{site.baseurl}}/assets/img/berkson/p37.png)
 
 **NOTE**: Feel free to jump to (d) since this is long.
 
