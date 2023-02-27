@@ -6,14 +6,13 @@ image:  '/assets/img/halong1.jpeg'
 caption: Halong Bay, Vietnam. So crazy beautiful.
 ---
 
-This is for point-referenced data/Gaussian Process models only.
+Note: This is for point-referenced data/Gaussian Process models only.
 
-## Textbooks
+***
 
 My interests in Spatial Stats is one of the biggest reasons I came to UCSC.
 As part of my effort to read more, I used this page to summarize the readings assigned for the class.
-
-Slides for this class are very minimal and leaves out a lot of detail, so it's almost required to do the readings to understand the material.
+Slides for the STAT 226 class are very minimal and leaves out a lot of detail, so it's almost required to do the readings to understand the material.
 
 1. Statistical Methods for Spatial Data Analysis, O. Schabenberger and C.A. Gotway. Chapman and Hall.
 2. Hierarchical Modeling and Analysis for Spatial Data, S. Banerjee and A.E. Gelfand. Chapman and Hall. 2nd edition
@@ -22,7 +21,15 @@ Slides for this class are very minimal and leaves out a lot of detail, so it's a
 None of the textbooks are completely comprehensive/helpful. That's why I put this guide together.
 Note that the first edition of the Banerjee and Gelfand book can be found online. They have different chapter numbers, however.
 
-## Suggested Reading Order
+Table of Contents:
+  * [Suggest Reading Order](#sec1)
+  * [Textbook Chapter Summaries](#sec2)
+  * [Other Important Resources (by topic)](#sec3)
+
+
+***
+
+## <a name="sec1"></a>Suggested Reading Order
 
 1. Overview of Theory: Schabenberger & Gotway Ch 2 + Ch 4.1-4.3
 2. K-L Expansion: Xia Thesis
@@ -35,7 +42,7 @@ Refer to other references as needed. Here are brief summaries with highly recomm
 
 ***
 
-## Textbook Chapter Summaries
+## <a name="sec2"></a>Textbook Chapter Summaries
 
 ### Schabenberger & Gotway Ch 2
 
@@ -96,7 +103,7 @@ Since it's the focus of the book, it is a very good chapter.
 
 ***
 
-## Other Important Resources (By Topic)
+## <a name="sec3"></a> Other Important Resources
 
 ####  On Bessel Functions
 * [Some basics on Bessel Functions](http://mhtlab.uwaterloo.ca/courses/me755/web_chap4.pdf)
@@ -112,7 +119,7 @@ Theorem 4.8 and examples are helpful.
 
 * Thesis by Gangqiang Xia is very helpful and goes over the motivations of the K-L Expansion and the approximation based on spectral densities. I should've read this before doing HW2. Bruno will provide a copy for the class.
 * [Notes on Karhunen-Loeve Expansion by Y. Lee (also helpful)](https://math.dartmouth.edu/~m106w19/notes/19WUQ_lec15.pdf)
-* [General Notes on Eigen values of Integrals](https://encyclopediaofmath.org/wiki/Eigen_values_of_integral_operators,_numerical_methods) First 3 paragraphs is all you need. 
+* [General Notes on Eigen values of Integrals](https://encyclopediaofmath.org/wiki/Eigen_values_of_integral_operators,_numerical_methods) First 3 paragraphs is all you need.
 
 ####  Spatial EDA
 * Banerjee & Gelfand Ch 2.5: Tutorial section.

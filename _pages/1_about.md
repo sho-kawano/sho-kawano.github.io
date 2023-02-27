@@ -6,7 +6,7 @@ image: /assets/img/laura.jpeg
 caption: Me and Laura in front of Mt. Whitney in Alabama Hills.
 ---
 
-
+Skip to [short professional summary](#prof).
 
 ### Personal
 
@@ -40,12 +40,11 @@ Here are some of my awesome friends (with Personal/Professional Websites):
 * [Gautam Machiraju](https://gmachiraju.github.io)
 
 
-***
 
-### Resume
+### <a name="prof"></a> Professional
 
-For a full professional summary please [see my CV](https://drive.google.com/file/d/1Sa3VebWWGolhA2q3mPoJ-6fwXHmzPDhv/view?usp=sharing)
-or [my resume](https://drive.google.com/file/d/1Lr_RPlSyJhZZ1bWD8NxS_Ek1CBMjRqEL/view?usp=sharing), .
+For a full professional summary please [see my CV](https://drive.google.com/open?id=1DjsDccl-Dc8x3vqGcyw5Iu1aja2uZd6A&authuser=shokawano5%40gmail.com&usp=drive_fs)
+or [my resume](https://drive.google.com/open?id=1ZVtpD5_ce3GugtP2-UIJeuY1yLRX2FIE&authuser=shokawano5%40gmail.com&usp=drive_fs) .
 
 **HONORS**
 * Honorable Mention, NSF Graduate Student Fellowships Program (GRFP), 2021
@@ -68,13 +67,17 @@ Additional Internship experiences at SunPower Corporation and WattTime.org
 **EDUCATION**
 * PhD Student in Statistics,  2021—Current
   - University of California, Santa Cruz
-  - Passed Preliminary Exams, Sept 2022
+  - *Passed Preliminary Exams, Sept 2022*
 * B.A. Statistics, High Honors, 2013-2017
   - University of California, Berkeley
 
+
+
+
+
 ***
 
-*Updated: Oct. 2022*
+*Updated: Feb. 2023*
 
 [^1]: He did his postdoc with Murray Gell-Man.  My grandpa has always been a big insipiration for me.
 [^2]: [Thanks to the struggle of Chinese immigrants](https://en.wikipedia.org/wiki/United_States_v._Wong_Kim_Ark)
