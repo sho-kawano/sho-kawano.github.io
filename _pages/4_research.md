@@ -17,10 +17,9 @@ I am broadly interested in developing statistical tools for applications relevan
 More specifically I'm interested in:
 
 * Official Statistics
-* Dependent Data Modeling (Spatial, Temporal)
 * Small Area Estimation
+* Parsimonious Modeling of Dependent Data (spatial, temporal)
 * Bayesian Methods
-
 
 I am co-advised by [Zehang Li](https://zehangli.com) and [Paul Parker](https://www.paparkerstat.com).
 

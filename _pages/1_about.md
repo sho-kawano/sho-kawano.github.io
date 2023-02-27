@@ -6,37 +6,7 @@ image: /assets/img/laura.jpeg
 caption: Me and Laura in front of Mt. Whitney in Alabama Hills.
 ---
 
-### Resume
 
-For a full professional summary please [see my CV](https://drive.google.com/file/d/1Sa3VebWWGolhA2q3mPoJ-6fwXHmzPDhv/view?usp=sharing)
-or [my resume](https://drive.google.com/file/d/1Lr_RPlSyJhZZ1bWD8NxS_Ek1CBMjRqEL/view?usp=sharing), .
-
-**HONORS**
-* Honorable Mention, NSF Graduate Student Fellowships Program (GRFP), 2021
-* Phi Beta Kappa & High Distinction in General Scholarship, UC Berkeley, 2017.
-
-**EXPERIENCE**
-* Teaching Assistant, Sept. 2021 - Current
-  - UC Santa Cruz, Statistics Department
-* Research Data Analyst II, Oct. 2020—Jun, 2021.
-  - CA. Dept. of Healthcare Services, Local Government Financing
-* Staff Research Associate, Oct. 2019—Jul. 2020.
-  - Dept. of Atmospheric Chemistry, UC Davis
-* Data Science Intern, Aug. 2019-Nov. 2019.
-  - New Sun Road, P.B.C.
-* Quantitative Analyst, Apr. 2019-Feb. 2017.
-  - Intersect Power
-
-Additional Internship experiences at SunPower Corporation and WattTime.org
-
-**EDUCATION**
-* PhD Student in Statistics,  2021—Current
-  - University of California, Santa Cruz
-* B.A. Statistics, High Honors, 2013-2017
-  - University of California, Berkeley
-
-
-***
 
 ### Personal
 
@@ -65,11 +35,42 @@ Insight Meditation practice & philosophy has and continues to change my life for
 Here are some of my awesome friends (with Personal/Professional Websites):
 
 * [Kunal Marwaha](https://kunalmarwaha.com)
-* [Seokjun Choi](https://letsjdosth.github.io)
 * [Antonio (Jose Antonio Aguirre Perez De Leon)](https://antonio-deleon.github.io)
 * [Clairce Cho](http://claricecho.com)
 * [Gautam Machiraju](https://gmachiraju.github.io)
 
+
+***
+
+### Resume
+
+For a full professional summary please [see my CV](https://drive.google.com/file/d/1Sa3VebWWGolhA2q3mPoJ-6fwXHmzPDhv/view?usp=sharing)
+or [my resume](https://drive.google.com/file/d/1Lr_RPlSyJhZZ1bWD8NxS_Ek1CBMjRqEL/view?usp=sharing), .
+
+**HONORS**
+* Honorable Mention, NSF Graduate Student Fellowships Program (GRFP), 2021
+* Phi Beta Kappa & High Distinction in General Scholarship, UC Berkeley, 2017.
+
+**EXPERIENCE**
+* Teaching Assistant, Sept. 2021 - Current
+  - UC Santa Cruz, Statistics Department
+* Research Data Analyst II, Oct. 2020—Jun, 2021.
+  - CA. Dept. of Healthcare Services, Local Government Financing
+* Staff Research Associate, Oct. 2019—Jul. 2020.
+  - Dept. of Atmospheric Chemistry, UC Davis
+* Data Science Intern, Aug. 2019-Nov. 2019.
+  - New Sun Road, P.B.C.
+* Quantitative Analyst, Apr. 2019-Feb. 2017.
+  - Intersect Power
+
+Additional Internship experiences at SunPower Corporation and WattTime.org
+
+**EDUCATION**
+* PhD Student in Statistics,  2021—Current
+  - University of California, Santa Cruz
+  - Passed Preliminary Exams, Sept 2022
+* B.A. Statistics, High Honors, 2013-2017
+  - University of California, Berkeley
 
 ***
 
