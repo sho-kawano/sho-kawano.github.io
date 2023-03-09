@@ -18,7 +18,8 @@ More specifically I'm interested in:
 
 * Official Statistics
 * Small Area Estimation
-* Parsimonious Modeling of Dependent Data (spatial, temporal)
+* Analysis of Complex Surveys
+* Markov Random Field Models (spatial & temporal)
 * Bayesian Methods
 
 I am co-advised by [Zehang Li](https://zehangli.com) and [Paul Parker](https://www.paparkerstat.com).
