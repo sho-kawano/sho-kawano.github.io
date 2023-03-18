@@ -127,3 +127,4 @@ Theorem 4.8 and examples are helpful.
 ####  Software
 
 * [The `geoR` tutorial](http://www.leg.ufpr.br/geor/geoRdoc/vignette/geoRintro.pdf). Super helpful for Empricial Variogram/Maximum Likelihood Inference
+* If you need to fit Process Convolutions with a spherical Bezier kernels and a MRF prior, [here's existing code from the paper by Lemos and Sanso](https://github.com/rtlemos/scallops)
