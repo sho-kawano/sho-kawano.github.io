@@ -13,7 +13,7 @@ If you're a TA and would like access to any of my slides or materials, please co
 
 **Stat 5, Introductory Statistics**
 
-* [Spring 2023 with Prof. Sanso](/2023/04/03/stat5-s23)
+* [Spring 2023 with Prof. Sansó](/2023/04/03/stat5-s23)
 * [Winter 2022 with Prof. Katznelson](/2022/01/14/stat5-w22)
 * [Fall 2021 with Prof. Mendes](/2021/09/05/stat5-f21/)
 
