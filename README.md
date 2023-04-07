@@ -12,3 +12,6 @@ Changes made to original Derrick Theme:
 * Added caption to the main photo for pages and posts
 * Edited the posts to make the main content rolls up together with the header
 * Edited the formatting of the posts (smaller font, mostly)
+
+
+Note: Tagging does not work on Github pages and it seems to be a pain to implement. [You can follow guides like this but I didn't bother](https://longqian.me/2017/02/09/github-jekyll-tag/#:~:text=If%20you%20want%20to%20add,Ruby%20plugins%20for%20Jekyll%20site)
