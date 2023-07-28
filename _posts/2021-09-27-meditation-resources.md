@@ -21,7 +21,9 @@ By far the best meditation app that provides excellent instructions from some of
 
 Here is a [30 day free guest pass](https://redeem.tenpercent.com/?promo_code=TPH-ZY1U-ZFE9).  For full disclosure, I do not make any money from this link.  
 
-**Website for a deep dive**: David Sudar has an amazing [website for all things meditation](https://www.pathofsincerity.com/) for those who want to go deeper.
+**Website for a deep dive**:
+
+David Sudar has an amazing [website for all things meditation](https://www.pathofsincerity.com/) for those who want to go deeper.
 
 **Retreats**
 

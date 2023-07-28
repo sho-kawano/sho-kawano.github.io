@@ -30,16 +30,7 @@ Insight Meditation practice & Buddhist philosophy has and continues to change my
 
 **Now:**  Splitting my time between Santa Cruz and Sacramento while I go to grad school. I play softball, bike around, and garden on my spare time.
 
-#### Friends
-
-Here are some of my awesome friends (with Personal/Professional Websites):
-
-* [Kunal Marwaha](https://kunalmarwaha.com)
-* [Antonio (Jose Antonio Aguirre Perez De Leon)](https://antonio-deleon.github.io)
-* [Clairce Cho](http://claricecho.com)
-* [Gautam Machiraju](https://gmachiraju.github.io)
-
-
+***
 
 ### <a name="prof"></a> Professional
 
