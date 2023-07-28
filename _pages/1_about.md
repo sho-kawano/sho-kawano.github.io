@@ -12,7 +12,7 @@ Skip to [short professional summary](#prof).
 
 I'm always changing but people often describe me as energetic, funny, and open. I love traveling, cooking, sports, gardening, and spending time with my girlfriend Laura.  I try to value experiences more than stuff. I'm also blessed to have many friends and a loving family.   
 
-Insight Meditation practice & philosophy has and continues to change my life for the better.
+Insight Meditation practice & Buddhist philosophy has and continues to change my life for the better.
 
 #### A Few Highlights
 
