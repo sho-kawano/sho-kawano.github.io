@@ -24,7 +24,7 @@ If you're a TA and would like access to any of my slides or materials, please co
 **Stat 131, Introductory Probability**
 
 * Winter 2023 with Prof. Alfaro-Córdoba (No Section-Specific Page)
-
+* Summer 2023 with Prof. David Draper (No Section-Specific Page)
 
 ***
 
