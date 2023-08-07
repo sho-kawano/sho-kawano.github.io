@@ -10,7 +10,7 @@ Skip to [short professional summary](#prof).
 
 ### Personal
 
-I seem to always be changing but people often describe me as energetic, funny, and open. I love traveling, cooking, sports, gardening, and spending time with my partner Laura.  I try to value relationships & experiences more than stuff.
+I seem to always be changing but people often describe me as energetic, funny, and open. I love traveling, cooking, sports, gardening, and spending time with my partner Laura.  I try to value relationships & experiences more than stuff. I want to be remembered as someone with a big heart. 
 
 Insight Meditation practice & Buddhist philosophy has and continues to change my life for the better.
 
@@ -18,11 +18,11 @@ Insight Meditation practice & Buddhist philosophy has and continues to change my
 
 **I was born in Tokyo, Japan.**  My mom was born here while my grandpa was at CalTech [^1], which enables me to be a US citizen[^2]. Balancing my Japanese roots with my American upbringing was challenging but rewarding.
 
-**Grew up in Hawaii.** Hawai'i is a gentle, beautiful place. Blessed to have grown up there.
+**Grew up in Hawaii** which is a gentle, beautiful place. Blessed to have grown up there.
 
-**Moved to Northern California in 2008.** I went to a hippy-arts type of High School in Sacramento. I love Sac!
+**Moved to Northern California in 2008.** I went to a hippy-arts type of High School in Sacramento. I played sports & loved doing theatre. I also love Sac!
 
-**UC Berkeley / East Bay.** Did my undergrad at Berkeley, was mostly interested in clean energy (statistics was a secondary interest).  During and after college, I worked for a major solar energy developer.
+**UC Berkeley / East Bay.** At Berkeley, I was mostly interested in clean energy (statistics was a secondary interest).  After college, I worked for a major solar energy developer.
 
 **Big Changes.** In 2019, let go from what I thought was my dream job. I went on an amazing trip to SE Asia. I also began dating Laura & started to seriously meditate: these three things I think have been the best things that have ever happened to me.
 
@@ -32,14 +32,11 @@ Insight Meditation practice & Buddhist philosophy has and continues to change my
 
 ***
 
-### <a name="prof"></a> Professional Summary
+### <a name="prof"></a> Short Professional Summary
 
 For a full professional summary please [see my CV](https://drive.google.com/open?id=1DjsDccl-Dc8x3vqGcyw5Iu1aja2uZd6A&authuser=shokawano5%40gmail.com&usp=drive_fs)
 or [my resume](https://drive.google.com/open?id=1ZVtpD5_ce3GugtP2-UIJeuY1yLRX2FIE&authuser=shokawano5%40gmail.com&usp=drive_fs) .
 
-**HONORS**
-* Honorable Mention, NSF Graduate Student Fellowships Program (GRFP), 2021
-* Phi Beta Kappa & High Distinction in General Scholarship, UC Berkeley, 2017.
 
 **EXPERIENCE**
 * Teaching Assistant, Sept. 2021 - Current
@@ -62,6 +59,9 @@ Additional Internship experiences at SunPower Corporation and WattTime.org
 * B.A. Statistics, High Honors, 2013-2017
   - University of California, Berkeley
 
+**HONORS**
+* Honorable Mention, NSF Graduate Student Fellowships Program (GRFP), 2021
+* Phi Beta Kappa & High Distinction in General Scholarship, UC Berkeley, 2017.
 
 
 
