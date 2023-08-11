@@ -10,9 +10,9 @@ Skip to [short professional summary](#prof).
 
 ### Personal
 
-I seem to always be changing but people often describe me as energetic, funny, and open. I love traveling, cooking, sports, gardening, and spending time with my partner Laura.  I try to value relationships & experiences more than stuff. I want to be remembered as someone with a big heart. 
+I seem to always be changing but people often describe me as energetic, funny, and open. I love traveling, cooking, sports, gardening, and spending time with my partner Laura.  I try to value relationships & experiences more than stuff. I want to be remembered as someone with a big heart.
 
-Insight Meditation practice & Buddhist philosophy has and continues to change my life for the better.
+Insight Meditation practice has and continues to change my life for the better.
 
 #### My Story
 
