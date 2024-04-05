@@ -8,7 +8,7 @@ caption:
 
 ### Research Interests
 
-> If I were advising a young person today... I would say "Take statistics, but remember that the great adventure of statistics is in gathering and using data to solve interesting an important real world problems".  - **Leo Breiman**
+> If I were advising a young person today... I would say "Take statistics, but remember that the great adventure of statistics is in gathering and using data to solve interesting an important real world problems".  - **Leo Breiman[^1]**
 
 {% include image.html url="/assets/img/diamond_head.jpeg" description="View from Diamond Head, looking towards Hawaii Kai." %}
 
@@ -25,6 +25,7 @@ More specifically I'm interested in:
 * Bayesian Methods
 
 I am co-advised by [Zehang Li](https://zehangli.com) and [Paul Parker](https://www.paparkerstat.com).
+
 
 ***
 
@@ -61,6 +62,5 @@ If you're a TA and would like access to any of my slides or materials, please co
 {% include image.html url="/assets/img/garden_oaxaca.jpeg" description="Jardín Etnobotánico de Oaxaca" %}
 
 
-Check out [Leo Breiman's Interview](https://projecteuclid.org/download/pdf_1/euclid.ss/1009213290).
-
-*Updated: Sept 2022*
+[^1]: Check out [Leo Breiman's Interview](https://projecteuclid.org/download/pdf_1/euclid.ss/1009213290).
+*Updated: April 2024*
