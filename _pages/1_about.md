@@ -28,7 +28,7 @@ Insight Meditation practice has and continues to change my life for the better.
 
 **Back in Sacramento.** Moved back right before Covid. Worked at the State Government which made me believe in the importance of people with technical skills in civil service.
 
-**Now:**  Currently a PhD student splitting my time between Sacramento & Santa Cruz. I play softball, meditate, and garden on my spare time.
+**Now:**  Currently a PhD student splitting my time between Sacramento & Santa Cruz. I play meditate and play softball on my spare time.
 
 ***
 
@@ -70,5 +70,5 @@ Additional Internship experiences at SunPower Corporation and WattTime.org
 
 *Updated: Feb. 2023*
 
-[^1]: He did his postdoc with Murray Gell-Man.  My grandpa has always been a big insipiration for me.
+[^1]: He did his postdoc with Murray Gell-Man.  My grandpa has always been a big inspiration for me.
 [^2]: [Thanks to the struggle of Chinese immigrants](https://en.wikipedia.org/wiki/United_States_v._Wong_Kim_Ark)
