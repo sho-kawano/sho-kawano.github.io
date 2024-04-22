@@ -35,7 +35,7 @@ The most helpful support for keeping up a meditation habit is practicing with ot
 
  **Website for a deep dive**: *Path of Sincerity*
 
- David Sudar has an amazing [website for all things meditation](https://www.pathofsincerity.com/) for those who want to go deeper.
+ David Sudar has an amazing [website and ultimate resource guide for all things meditation](https://www.pathofsincerity.com/the-ultimate-meditation-resource-guide-books-courses-movies-buddhism-technology-etc/) for those who want to go deeper.
 
 
 
