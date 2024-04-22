@@ -15,6 +15,7 @@ caption: Mandalay, Myanmar
 Interested in trying meditation? Here are some incredible resources I recommend:
 
 **For the skeptics**: *background science*
+
 I personally don't need any convincing given what I've gotten out of meditation but here are some good overviews I found if you're scientifically inclined.
 It's still a relatively new area of research but there's a growing body of evidence for the benefits. I'm excited to see how this evolves.
 
