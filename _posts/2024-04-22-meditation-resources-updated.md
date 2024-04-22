@@ -1,0 +1,41 @@
+---
+layout: post
+title:  Meditation Resources (Updated)
+date:   2024-04-22
+image: /assets/img/pagodas.jpeg
+caption: Mandalay, Myanmar   
+---
+
+
+*Updating an older post.*
+
+<br />
+
+Interested in trying meditation?  Here are some incredible resources I recommend:
+
+**App**:  *Ten Percent*
+
+By far the best meditation app that provides excellent instructions from some of the best meditation teachers in the world.  Although it presents the content in a secular fashion, it does so while respecting the Buddhist philosophy that underlies it (unlike apps like headspace).  It also has made a lot of effort to promote teachers from various backgrounds, so chances are, you'll find one that fits your style.
+
+**Feel the impact of meditating:** *Retreats*
+
+Personally, I found that extended meditation retreats significantly deepened my practice. All of the things that provide unnecessary friction in your mind may be withstood in a 10 min meditation session.  But when you're meditating for multiple days intensively, you will have to confront them. Meditation teacher Steve Armstrong used an analogy like "A daily practice is like wiping the kitchen counter and a retreat is a deep clean". It can be an intense experience but life changing.
+
+[Look here for a guide to retreat centers](https://www.pathofsincerity.com/vipassana-meditation-retreat-oregon-united-states-asia-insight/)
+
+If you want something shorter, many meditation teachers and centers offer day-long retreats to help you dive deeper into practice.
+
+
+**Keeping up the meditation habit:** *Practice with others*
+
+The most helpful support for keeping up a meditation habit is practicing with others(in-person or Zoom).   If you're in the Sacramento area, feel free to come to [this meditation group](https://www.instagram.com/yps_sactoInsight/).
+
+
+ **Website for a deep dive**: *Path of Sincerity*
+
+ David Sudar has an amazing [website for all things meditation](https://www.pathofsincerity.com/) for those who want to go deeper.
+
+
+
+
+***
