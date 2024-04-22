@@ -6,13 +6,21 @@ image:
 caption:
 ---
 
-### Research Interests
+Table of contents:
+
+* [Research](#research).
+* [Teaching](#teaching).
+
+<br />
+
+{% include image.html url="/assets/img/diamond_head.jpeg" description="View from Diamond Head, looking towards Hawaii Kai." %}
+<br />
 
 > If I were advising a young person today... I would say "Take statistics, but remember that the great adventure of statistics is in gathering and using data to solve interesting an important real world problems".  - **Leo Breiman[^1]**
 
-{% include image.html url="/assets/img/diamond_head.jpeg" description="View from Diamond Head, looking towards Hawaii Kai." %}
 
-<br />
+### <a name="research"></a>  Research
+
 
 I am broadly interested in developing statistical tools for applications relevant to public policy and public health.
 More specifically I'm interested in:
@@ -29,17 +37,17 @@ I am co-advised by [Zehang Li](https://zehangli.com) and [Paul Parker](https://w
 
 ***
 
-### Teaching
-
-Teaching is arguably the most impactful part of my graduate training. I have especially enjoyed teaching introductory statistics.
+###  <a name="teaching"></a> Teaching
 
 #### Stat 5 Curriculum Re-Development
 
 I'm currently working with [Professor Marcela Alfaro Córdoba](https://malfaro.netlify.app/) on redeveloping the curriculum for one of the intro-statistics class at UC Santa Cruz (Stat 5).  I'm excited about this work, especially since Stat 5 is a class over 1200 students take every year!
 
-#### Classes TA-ed At UCSC
+#### Classes Taught At UCSC
 
-The following are the classes I have TA-ed for.
+Teaching is arguably the most impactful part of my graduate training. I have especially enjoyed teaching introductory statistics.
+
+The following are the classes I have served as a teaching assistant for.
 If you're a TA and would like access to any of my slides or materials, please contact me.
 
 **Stat 5, Introductory Statistics**
@@ -59,7 +67,6 @@ If you're a TA and would like access to any of my slides or materials, please co
 
 ***
 
-{% include image.html url="/assets/img/garden_oaxaca.jpeg" description="Jardín Etnobotánico de Oaxaca" %}
 
 
 [^1]: Check out [Leo Breiman's Interview](https://projecteuclid.org/download/pdf_1/euclid.ss/1009213290).

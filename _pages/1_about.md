@@ -10,7 +10,7 @@ Skip to [short professional summary](#prof).
 
 ### Personal
 
-I seem to always be changing but people often describe me as energetic, funny, and open. I love traveling, cooking, sports, gardening, and spending time with my partner Laura.  I try to value relationships & experiences more than stuff. I want to be remembered as someone with a big heart.
+I'm always be changing but people often describe me as energetic, funny, and open. I love traveling, cooking, sports, gardening, and spending time with my partner Laura.  I try to value relationships & experiences more than stuff. I want to be remembered as someone with a big heart.
 
 Insight Meditation practice has and continues to change my life for the better.
 
@@ -22,32 +22,35 @@ Insight Meditation practice has and continues to change my life for the better.
 
 **Moved to Northern California in 2008.** I went to a hippy-arts type of High School in Sacramento. I played sports & loved doing theatre. I also love Sac!
 
-**UC Berkeley / East Bay.** At Berkeley, I was mostly interested in clean energy (statistics was a secondary interest).  After college, I worked for a major solar energy developer.
+**Adventures in the East Bay.** At UC Berkeley, I was mostly interested in clean energy (statistics was a secondary interest).  After college, I worked for a major solar energy developer.
 
-**Big Changes.** In 2019, let go from what I thought was my dream job. I went on an amazing trip to SE Asia. I also began dating Laura & started to seriously meditate: these three things I think have been the best things that have ever happened to me.
+**Big Changes.** In 2019, let go from what I thought was my dream job, went on an amazing trip to SE Asia, began dating Laura, and started to seriously meditate. These things have been the best things that have ever happened to me.
 
 **Back in Sacramento.** Moved back right before Covid. Worked at the State Government which made me believe in the importance of people with technical skills in civil service.
 
-**Now:**  Currently a PhD student splitting my time between Sacramento & Santa Cruz. I play meditate and play softball on my spare time.
+**Grad School Phase 1:**  Started my PhD program splitting my time between Sacramento & Santa Cruz.
+
+**Now:** Mostly in Sacramento after finishing my courses. About to get married & reflecting more about what the future together could look like.
 
 ***
 
 ### <a name="prof"></a> Short Professional Summary
 
-For a full professional summary please [see my CV](https://drive.google.com/file/d/12VrVE5jhmGrq-uZGexkedCMseZ3_rYwi/view?usp=sharing)
-or [my resume](https://drive.google.com/file/d/1J6aLCXWmPvK0Uocgy3uAun6HobrFwFxT/view?usp=sharing) .
+For a full professional summary please [see my CV](https://drive.google.com/file/d/12VrVE5jhmGrq-uZGexkedCMseZ3_rYwi/view?usp=sharing).
 
 
 **EXPERIENCE**
-* Teaching Assistant, Sept. 2021 - Current
+* Teaching Assistant, Sep 2021 - Current (Intermittent)
   - UC Santa Cruz, Statistics Department
-* Research Data Analyst II, Oct. 2020—Jun, 2021.
+* Graduate Student Researcher, Jul 2023 - Current
+    - UC Santa Cruz, Statistics Department
+* Research Data Analyst II, Oct 2020—Jun 2021.
   - CA. Dept. of Healthcare Services, Local Government Financing
-* Staff Research Associate, Oct. 2019—Jul. 2020.
+* Staff Research Associate, Oct 2019—Jul 2020.
   - Dept. of Atmospheric Chemistry, UC Davis
-* Data Science Intern, Aug. 2019-Nov. 2019.
+* Data Science Intern, Aug 2019-Nov 2019.
   - New Sun Road, P.B.C.
-* Quantitative Analyst, Apr. 2019-Feb. 2017.
+* Quantitative Analyst, Apr 2019-Feb 2017.
   - Intersect Power
 
 Additional Internship experiences at SunPower Corporation and WattTime.org
@@ -55,7 +58,7 @@ Additional Internship experiences at SunPower Corporation and WattTime.org
 **EDUCATION**
 * PhD Student in Statistics,  2021—Current
   - University of California, Santa Cruz
-  - *Passed Preliminary Exams, Sept 2022*
+  - *Passed Preliminary Exams, Sep 2022*
 * B.A. Statistics, High Honors, 2013-2017
   - University of California, Berkeley
 
@@ -64,11 +67,9 @@ Additional Internship experiences at SunPower Corporation and WattTime.org
 * Phi Beta Kappa & High Distinction in General Scholarship, UC Berkeley, 2017.
 
 
-
-
 ***
 
-*Updated: Feb. 2023*
+*Updated: April 2024*
 
 [^1]: He did his postdoc with Murray Gell-Man.  My grandpa has always been a big inspiration for me.
 [^2]: [Thanks to the struggle of Chinese immigrants](https://en.wikipedia.org/wiki/United_States_v._Wong_Kim_Ark)
