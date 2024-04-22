@@ -34,6 +34,13 @@ More specifically I'm interested in:
 
 I am co-advised by [Zehang Li](https://zehangli.com) and [Paul Parker](https://www.paparkerstat.com).
 
+**Update:**
+
+* Recently completed a project that is the first chapter of my dissertation.
+  + [Access the ArXiv preprint here](https://arxiv.org/abs/2404.12463).
+* Excited to be presenting this paper at [JSM in Portland](https://ww2.amstat.org/meetings/jsm/2024/).
+  + August 4th, 2024 at 4:00pm-5:50pm.
+  + Session Name: *Innovative Modeling Approaches for Small Area Estimation in the Presence of Complex Dependence Structures*
 
 ***
 
