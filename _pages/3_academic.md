@@ -8,8 +8,8 @@ caption:
 
 Table of contents:
 
-* [Research](#research).
-* [Teaching](#teaching).
+* [Research](#research)
+* [Teaching](#teaching)
 
 <br />
 
@@ -37,6 +37,7 @@ I am co-advised by [Zehang Li](https://zehangli.com) and [Paul Parker](https://w
 **Update:**
 
 * Recently completed a project that is the first chapter of my dissertation.
+  + *Spatially Selected and Dependent Random Effects for Small Area Estimation with Application to Rent Burden*
   + [Access the ArXiv preprint here](https://arxiv.org/abs/2404.12463).
 * Excited to be presenting this paper at [JSM in Portland](https://ww2.amstat.org/meetings/jsm/2024/).
   + Session Name: *Innovative Modeling Approaches for Small Area Estimation in the Presence of Complex Dependence Structures*
