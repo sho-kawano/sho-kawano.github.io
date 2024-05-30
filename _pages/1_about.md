@@ -30,7 +30,7 @@ Insight Meditation practice has and continues to change my life for the better.
 
 **Grad School Phase 1:**  Started my PhD program splitting my time between Sacramento & Santa Cruz.
 
-**Now:** Mostly in Sacramento after finishing my courses. About to get married & reflecting more about what the future together could look like.
+**Now:** Mostly in Sacramento after finishing my courses. Just got married & reflecting more about what the future together could look like.
 
 ***
 
