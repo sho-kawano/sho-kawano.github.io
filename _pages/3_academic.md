@@ -29,8 +29,8 @@ More specifically I'm interested in:
 * Small Area Estimation
 * Disease Mapping
 * Areal Data Modeling
-* Markov Random Field Models
 * Bayesian Methods
+* Record Linkage
 
 I am co-advised by [Zehang Li](https://zehangli.com) and [Paul Parker](https://www.paparkerstat.com).
 
@@ -47,11 +47,11 @@ I am co-advised by [Zehang Li](https://zehangli.com) and [Paul Parker](https://w
 
 ###  <a name="teaching"></a> Teaching
 
-#### Stat 5 Curriculum Re-Development
+**Stat 5 Curriculum Re-Development**
 
 I'm currently working with [Professor Marcela Alfaro Córdoba](https://malfaro.netlify.app/) on redeveloping the curriculum for one of the intro-statistics class at UC Santa Cruz (Stat 5).  I'm excited about this work, especially since Stat 5 is a class over 1200 students take every year!
 
-#### Classes Taught At UCSC
+**Classes Taught at UCSC**
 
 Teaching is arguably the most impactful part of my graduate training. I have especially enjoyed teaching introductory statistics.
 
