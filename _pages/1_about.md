@@ -36,7 +36,7 @@ Insight Meditation practice has and continues to change my life for the better.
 
 ### <a name="prof"></a> Short Professional Summary
 
-For a full professional summary please [see my CV](https://drive.google.com/file/d/12VrVE5jhmGrq-uZGexkedCMseZ3_rYwi/view?usp=sharing).
+For a full professional summary please [see my CV](https://drive.google.com/open?id=13cD5LtQDNS5w-2_u3KhCg6FHuc-tV9b5&usp=drive_fs).
 
 
 **EXPERIENCE**

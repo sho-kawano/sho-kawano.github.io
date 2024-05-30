@@ -6,17 +6,17 @@ image:
 caption:
 ---
 
-Table of contents:
+<!-- Table of contents:
 
 * [Research](#research)
-* [Teaching](#teaching)
+* [Teaching](#teaching) -->
 
-<br />
+<!-- <br />
 
 {% include image.html url="/assets/img/diamond_head.jpeg" description="View from Diamond Head, looking towards Hawaii Kai." %}
-<br />
-
-> If I were advising a young person today... I would say "Take statistics, but remember that the great adventure of statistics is in gathering and using data to solve interesting an important real world problems".  - **Leo Breiman[^1]**
+<br /> -->
+<!-- 
+> If I were advising a young person today... I would say "Take statistics, but remember that the great adventure of statistics is in gathering and using data to solve interesting an important real world problems".  - **Leo Breiman[^1]** -->
 
 
 ### <a name="research"></a>  Research
