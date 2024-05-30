@@ -63,13 +63,14 @@ Additional Internship experiences at SunPower Corporation and WattTime.org
   - University of California, Berkeley
 
 **HONORS**
+* Wray Jackson Smith Scholarship, Government / Social Statistics Sections of the American Statistical Association (ASA), 2024.
 * Honorable Mention, NSF Graduate Student Fellowships Program (GRFP), 2021
 * Phi Beta Kappa & High Distinction in General Scholarship, UC Berkeley, 2017.
 
 
 ***
 
-*Updated: April 2024*
+*Updated: May 2024*
 
 [^1]: He did his postdoc with Murray Gell-Man.  My grandpa has always been a big inspiration for me.
 [^2]: [Thanks to the struggle of Chinese immigrants](https://en.wikipedia.org/wiki/United_States_v._Wong_Kim_Ark)
