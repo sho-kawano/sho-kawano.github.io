@@ -28,9 +28,11 @@ Insight Meditation practice has and continues to change my life for the better.
 
 **Back in Sacramento.** Moved back right before Covid. Worked at the State Government which made me believe in the importance of people with technical skills in civil service.
 
-**Grad School Phase 1:**  Started my PhD program splitting my time between Sacramento & Santa Cruz.
+**Grad School Years 1-2:**  Started my PhD program splitting my time between Sacramento & Santa Cruz.
 
-**Now:** Mostly in Sacramento after finishing my courses. Just got married & reflecting more about what the future together could look like.
+**Grad School Year 3:** Mostly in Sacramento after finishing my courses. I got married in May 2024!
+
+**NOW:** I'm currently on leave to pursue exciting bucket-list kind of stuff that require time away from the PhD program. I'll be back! :)
 
 ***
 
@@ -63,14 +65,14 @@ Additional Internship experiences at SunPower Corporation and WattTime.org
   - University of California, Berkeley
 
 **HONORS**
-* Wray Jackson Smith Scholarship, Government / Social Statistics Sections of the American Statistical Association (ASA), 2024.
+* Wray Jackson Smith Scholarship, Government Statistics Sections of the American Statistical Association (ASA), 2024.
 * Honorable Mention, NSF Graduate Student Fellowships Program (GRFP), 2021
 * Phi Beta Kappa & High Distinction in General Scholarship, UC Berkeley, 2017.
 
 
 ***
 
-*Updated: May 2024*
+*Updated: Sep 2024*
 
 [^1]: He did his postdoc with Murray Gell-Man.  My grandpa has always been a big inspiration for me.
 [^2]: [Thanks to the struggle of Chinese immigrants](https://en.wikipedia.org/wiki/United_States_v._Wong_Kim_Ark)
