@@ -21,14 +21,14 @@ caption:
 ### <a name="research"></a>  Research
 
 
-I am broadly interested in developing statistical tools for applications relevant to public policy and public health.
+I am broadly interested in developing statistical tools for applications relevant to public policy.
 More specifically I'm interested in:
 
 * Official Statistics
 * Small Area Estimation
-* Disease Mapping
 * Areal Data Modeling
 * Bayesian Methods
+* Disease Mapping
 * Record Linkage
 
 I am co-advised by [Zehang Li](https://zehangli.com) and [Paul Parker](https://www.paparkerstat.com).
