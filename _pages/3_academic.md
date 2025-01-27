@@ -20,16 +20,14 @@ caption:
 
 ### <a name="research"></a>  Research
 
+I love working on statistical problems that have direct links to applied problems. In my dissertation work, I work on methods in Small Area Estimation that are relied upon to allocate billions of dollars for the largest government programs in the US. 
 
-I am broadly interested in developing statistical tools for applications relevant to public policy.
-More specifically I'm interested in:
+Some of my interests include:
 
-* Official Statistics
-* Small Area Estimation
-* Areal Data Modeling
 * Bayesian Methods
-* Disease Mapping
-* Record Linkage
+* Small Area Estimation
+* Areal/Spatial Data Modeling
+* Using Machine Learning Techniques to Improve Statistical Models 
 
 I am co-advised by [Zehang Li](https://zehangli.com) and [Paul Parker](https://www.paparkerstat.com).
 
