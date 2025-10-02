@@ -1,0 +1,17 @@
+<!-- start custom head snippets -->
+
+{% if page.mathjax %}
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['\\(', '\\)']],
+    displayMath: [['\\[', '\\]']],
+    processEscapes: true,
+    processEnvironments: true
+  }
+};
+</script>
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+{% endif %}
+
+<!-- end custom head snippets -->

@@ -1,0 +1,15 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Posts"
+    url: /posts/
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
+#  - title: "Categories"
+ #   url: /categories/
+  #- title: "Tags"
+   # url: /tags/

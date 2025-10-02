@@ -1,12 +1,18 @@
 ---
-layout: post
-title:  Spatial Class Reading Notes
-date:   2023-02-19 12:54
-image:  '/assets/img/halong1.jpeg'
-caption: Halong Bay, Vietnam. So crazy beautiful.
+title: Spatial Class Reading Notes
+last_modified_at:  2023-02-19 12:54
+categories:
+  - stats
+tags:
+  - statistics
+  - classes
 ---
+For point-referenced data/Gaussian Process models only (most of the class's focus).
 
-Note: This is for point-referenced data/Gaussian Process models only.
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/halong1.jpeg">
+<sub>Halong Bay, Vietnam.</sub>
+
 
 ***
 

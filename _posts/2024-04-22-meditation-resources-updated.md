@@ -1,18 +1,16 @@
 ---
-layout: post
-title:  Meditation Resources (Updated)
-date:   2024-04-22
-image: /assets/img/pagodas.jpeg
-caption: Mandalay, Myanmar   
+title: Meditation Resources
+last_modified_at:  2024-04-22
+categories:
+  - meditation
 ---
 
+Insight Meditation practice has profoundly changed my life.
+If you're interested in trying it, here are some incredible resources I recommend!
 
-*Updating an older post.*
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/pagodas.jpeg">
+<sub>Mandalay, Myanmar.</sub>
 
-<br />
-
-
-Interested in trying meditation? Here are some incredible resources I recommend:
 
 **For the skeptics**: *background science*
 

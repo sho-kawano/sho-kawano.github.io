@@ -1,17 +1,21 @@
 ---
-layout: post
 title:  Unconventional Candidate's Guide to Stats Grad Programs
-date:   2022-01-07 14:00:00
-image: /assets/img/bangkok_airport.jpeg
-caption: In Bangkok. Taken by Bas Glaap (@basglaap on insta).
+date:   2022-01-07 
+categories:
+  - grad-school
+tags:
+  - statistics
+  - career
+  - guide
 ---
 
-Updated: Sept 2022.
+My guidance for “atypical” candidates applying to Stats Ph.D programs.
 
-**My guidance may be more useful for “atypical” candidates or candidates whose undergrad math background is not particularly deep.**
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/bangkok_airport.jpeg">
+<sub>In Bangkok. Taken by Bas Glaap (@basglaap on insta)</sub>
 
 I came into undergrad wanting to study environmental policy.  I discovered stats my sophomore year and had to go back to community college in order to switch!  Even after switching to stats, I had ZERO intentions of going to grad school.  I honestly thought it was overkill.  But instead of being a "data analyst" I wanted to be a proper statistician which meant grad school is almost a must.
-Needless to say, I had a very un-linear path to get here. Given the rise in the competitiveness of admissions, I feel very fortunate to have acceptances into a few PhD programs in California.  😄
+Needless to say, I had a very un-linear path to get here. Given the rise in the competitiveness of admissions, I feel very fortunate to have acceptances into a few Ph.D programs in California.  😄
 
 ***
 
@@ -23,12 +27,12 @@ Hit up the GradCafe forums if you want a honest assessment.
 Also hit up current grad students in potential programs of interest.
 
 ## 1. Depth of math background matters a lot.
-Admissions are becoming even more competitive (especially for PhD programs). So prior depth of math/stats background is apparently becoming more important to differentiate oneself from other applicants.
+Admissions are becoming even more competitive (especially for Ph.D programs). So prior depth of math/stats background is apparently becoming more important to differentiate oneself from other applicants.
 
 For Masters programs: there's a lot of variance in terms of what different program expects from their Master-level Students.
 Some expect almost zero background, some may require more.　It totally depends.  At a minimum, I would say you should have taken the calc series (I-III), linear algebra, probability.  If you don’t have this background, it’s ok.  See pt 2.
 
-For PhD programs: You really should take Real Analysis & upper division algebra. But I’d take more if time/budget allows (stochastic processes, optimization, etc). You should also be comfortable writing proofs (especially for programs that emphasize asymptotics/measure-theoretic probability theory) and coding well (R, Python or whatever language) but you don't necessarily need to take a course on it.  If you don’t have a strong math background, it’s ok.  See pt 2.
+For Ph.D programs: You really should take Real Analysis & upper division algebra. But I’d take more if time/budget allows (stochastic processes, optimization, etc). You should also be comfortable writing proofs (especially for programs that emphasize asymptotics/measure-theoretic probability theory) and coding well (R, Python or whatever language) but you don't necessarily need to take a course on it.  If you don’t have a strong math background, it’s ok.  See pt 2.
 
 ## 2. … but there are ways to make it up, even after graduating.
 If you want to improve your math/stats background, I recommend NethMath, the UIUC program run by their math department that is fully online. It is well designed for remote instruction and is cheaper than enrolling as a non-matriculated student. It allows you to take classes while working as well. Another plus is that the transcript they produce is indistinguishable from UIUC's normal classes.
@@ -54,3 +58,5 @@ A few reasons for this:
 * Working under a boss or two will give you a better idea of what "a good advisor" actually means for you.
 * Learn how to adult. Make sure you live frugally.
 * You’ll have savings!
+
+Updated: Sept 2022.

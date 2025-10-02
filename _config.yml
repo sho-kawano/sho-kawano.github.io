@@ -1,75 +1,113 @@
-title: Sho Kawano
-logo:  # you can add own logo.
-description:
-baseurl: ""
-url: https://sho-kawano.github.io # the base hostname & protocol for your site, e.g. http://example.com
-
-
-# Author Settings
-author:
-  name: Sho Kawano
-  image: '/assets/img/about.jpg'
-  job: Welcome to my page!
-  bio: |+
-    <br />
-    Currently a PhD Student in Statistics at UC Santa Cruz.
-    <br />
-    I like to meditate, travel, cook, play softball, and laugh.  
-    <br />
-    This site is a blend of professional/personal content.
-    <br />
-  CV: https://drive.google.com/file/d/10lF4dSpjBBIMnAUsOPYJhq9txlL5VP3Z/view?usp=sharing
-  email: shkawano@ucsc.edu
-  github: https://github.com/sho-kawano
-  last_update:  May 2024
-
-
-
-# Contact links
-# TODO: Potentially add later.
-# contact:
-#   - name: Twitter
-#     link: https://twitter.com/
+# Welcome to Jekyll!
 #
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-# Comment Section (Disqus)
-disqus-identifier: sho-personal # add your shortname for Disqus Comment. For example mr-brown
-
-
-# Google Analytics
-google-analytics: UA-208765987-1
-# add your identifier. For example UA-99631805-1.
-
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Sho Kawano
+email: shkawano@ucsc.edu
+#url: https://sho-kawano.github.io
+description: >- # this means to ignore newlines until "baseurl:"
+  Sho's personal website
+github_username: sho-kawano
+minimal_mistakes_skin: default
+search: true
+polarstep_username: shotime
 
 # Build settings
 markdown: kramdown
-permalink: pretty
-plugins:
-  - jekyll-sitemap
-  - jekyll/tagging
-
-# Pages Path
-defaults:
-  - scope:
-      path: '_pages'
-    values:
-      permalink: /:basename:output_ext
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
 
-# Tags
-tag_page_dir:         tag
-tag_page_layout:      tag-page
-tag_permalink_style:  pretty
-
-sass:
-  sass_dir: _sass
-  style: compressed
-
-
 # Exclude from processing.
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - vendor
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+# MathJax support
+
+author:
+  name   : "Sho Kawano"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "Traveler, meditator, and a Statistics Ph.D Student at UC Santa Cruz."
+  links:
+    - label: "Resume"
+      icon: "fa-regular fa-briefcase"
+      url: "https://drive.google.com/file/d/1vBWQm4DBzFMw50QrBdwAl3ZMFdooNTY0/view?usp=sharing"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+    - label: "Polarsteps"
+      icon: "fa-regular fa-compass"
+      url: "https://www.polarsteps.com/shotime"
+      
+
+footer:
+  links:
+    - label: "Resume"
+      icon: "fa-regular fa-briefcase"
+      url: "https://drive.google.com/file/d/1oZDvLYMSpwDmJY80rtoWXeGygmX4yCeY/view?usp=sharing"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+    - label: "Polarsteps"
+      icon: "fa-regular fa-compass"
+      url: "https://www.polarsteps.com/shotime"
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: false
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
