@@ -4,7 +4,7 @@ title: Teaching
 ---
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/gradschool2.jpeg">
-<sub>My first class I taught at UCSC!</sub>
+<sub>My first class I took at UCSC!</sub>
 
 **Intro Stats Curriculum Re-Development**
 

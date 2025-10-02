@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Sho Kawano"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Traveler, meditator, and a Statistics Ph.D Student at UC Santa Cruz."
+  bio    : "Meditator, traveler and a Statistics Ph.D Student at UC Santa Cruz."
   links:
     - label: "Resume"
       icon: "fa-regular fa-briefcase"

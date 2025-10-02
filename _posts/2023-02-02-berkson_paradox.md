@@ -3,7 +3,7 @@ title: Berkson's Paradox
 last_modified_at: 2023-02-02 11:00:00
 mathjax: true
 categories:
-  - class_pages
+  - stats
 tags:
   - statistics
   - teaching
