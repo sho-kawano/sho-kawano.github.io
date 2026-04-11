@@ -7,19 +7,24 @@ title: "Research"
 <sub>At JSM 2025 in Nashville</sub>
 
 
-I love working on statistical problems that have direct links to applied problems. In my dissertation work, I work on methods in Small Area Estimation that are relied upon to allocate billions of dollars for the largest government programs in the US. 
+I love working on statistical problems that have direct links to applied problems. My dissertation research is focused on small area estimation that are relied upon to make key policy decisions in the US and beyond. 
+
+Question like "what is the childhood poverty rate in X county?" are often answered by using small area estimation methods. 
 
 Some of my interests include:
 
-* Bayesian Methods
 * Small Area Estimation
 * Areal/Spatial Data Modeling
-* Using Machine Learning Techniques to Improve Statistical Models 
+* Model Comparison
+* Survey Statistics
+* Bayesian Methods
+
 
 I am co-advised by [Zehang Li](https://zehangli.com) and [Paul Parker](https://www.paparkerstat.com).
 
-**Updates:**
+**Updates**
 
+May 2025: 
 * My first dissertation project was published in the The Journal of the Royal Statistical Society, Series A (JRSS-A)!
   + *Spatially Selected and Dependent Random Effects for Small Area Estimation with Application to Rent Burden*
   + [Access the publication here](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnaf063/8167071?searchresult=1).
