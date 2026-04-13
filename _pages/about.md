@@ -5,9 +5,9 @@ title: "About"
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/laura.jpeg">
 
-People often describe me as energetic, funny, and open. I love traveling, cooking, cafe-ing, sports, exploring cities, and spending time with my partner Laura. I try to value relationships & experiences more than stuff. 
+People often describe me as energetic, funny, and open. I love traveling, cooking, cafe-ing, sports, exploring cities, and spending time with my partner Laura. I try to value ease, relationships, and connecting with the bigger world, more than stuff. 
 
-I want to be remembered as someone with a big heart. Meditation practice has and continues to change my life for the better.
+I want to be remembered as someone with a big heart. Meditation practice is a big part of my life. It has and continues to transform my life in a really meaningful way. 
 
 ***
 
