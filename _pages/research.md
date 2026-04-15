@@ -19,7 +19,6 @@ Some of my interests include:
 * Survey Statistics
 * Bayesian Methods
 
-
 I am co-advised by [Zehang Li](https://zehangli.com) and [Paul Parker](https://www.paparkerstat.com).
 
 **Updates**
