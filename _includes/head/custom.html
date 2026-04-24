@@ -14,4 +14,8 @@ MathJax = {
 <script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 {% endif %}
 
+{% if site.umami_website_id and jekyll.environment == "production" %}
+<script defer src="{{ site.umami_script_url | default: 'https://cloud.umami.is/script.js' }}" data-website-id="{{ site.umami_website_id }}" data-do-not-track="true" data-exclude-search="true"{% if site.umami_domains %} data-domains="{{ site.umami_domains }}"{% endif %}></script>
+{% endif %}
+
 <!-- end custom head snippets -->

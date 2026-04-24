@@ -23,6 +23,12 @@ minimal_mistakes_skin: default
 search: true
 polarstep_username: shotime
 
+# Umami analytics (set your website ID to enable tracking)
+umami_website_id: "5abc7dd9-2bf7-4b99-86b0-1eb006f7fc94"
+umami_script_url: "https://cloud.umami.is/script.js"
+# Optional: limit tracking to specific domains, comma-separated.
+# umami_domains: "sho-kawano.github.io,www.sho-kawano.github.io"
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
