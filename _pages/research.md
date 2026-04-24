@@ -14,8 +14,8 @@ Question like "what is the childhood poverty rate in X county?" are often answer
 Some of my interests include:
 
 * Small Area Estimation
-* Areal/Spatial Data Modeling
-* Model Comparison
+* Data Thinning for model selection and valid inference
+* Areal/Discrete Spatial Modeling
 * Survey Statistics
 * Bayesian Methods
 
@@ -24,8 +24,9 @@ I am co-advised by [Zehang Li](https://zehangli.com) and [Paul Parker](https://w
 **Updates**
 
 April 2026: 
-We have new preprint on how we can use Data Thinning for principled validation of Small Area Estimation models. This was a really rewarding and fascinating project to work on. 
-+ [Access the arXiv preprint here](https://arxiv.org/abs/2604.04141)
+
+* We have new preprint on how we can use Data Thinning for principled validation of Small Area Estimation models. This was a really rewarding and fascinating project to work on. 
+*  [Access the arXiv preprint here](https://arxiv.org/abs/2604.04141)
 
 May 2025: 
 * My first dissertation project was published in the The Journal of the Royal Statistical Society, Series A (JRSS-A)!
