@@ -6,15 +6,15 @@ title: Teaching
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/gradschool2.jpeg">
 <sub>My first class I took at UCSC!</sub>
 
-**Intro Stats Curriculum Re-Development**
+**Pedagogy: Intro Stats Curriculum Re-Development**
 
-I worked with [Professor Marcela Alfaro Córdoba](https://malfaro2.github.io) on redeveloping the curriculum for one of the intro-statistics class at UC Santa Cruz (Stat 5).  I'm proud of this work, especially since Stat 5 is a class over 1200 students take every year. 
+I worked with [Professor Marcela Alfaro Córdoba](https://malfaro2.github.io) on redeveloping the curriculum for one of the intro-statistics class at UC Santa Cruz (Stat 5).  I'm proud of this work, especially since Stat 5 is a class over 1,200 students take every year. 
 
-**Classes Taught at UCSC**
+**Teaching Assistance: Classes at UCSC**
 
 Teaching is arguably the most impactful part of my graduate training. I have especially enjoyed teaching introductory statistics.
 
-The following are the classes I have served as a teaching assistant for.
+The following are the classes I have served as a teaching assistant (TA) for.
 If you're a TA and would like access to any of my slides or materials, please contact me.
 
 *Stat 5, Introductory Statistics*
@@ -30,10 +30,10 @@ If you're a TA and would like access to any of my slides or materials, please co
 
 *Stat 131, Introductory Probability*
 
-* Winter 2023 with Prof. Alfaro-Córdoba (No Section-Specific Page)
-* Summer 2023 with Prof. David Draper (No Section-Specific Page)
+* Winter 2023 with Prof. Alfaro-Córdoba 
+* Summer 2023 with Prof. David Draper 
 
 ***
 
 
-*Updated: Oct 2025*
+*Updated: Apr 2026*
