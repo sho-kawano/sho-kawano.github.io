@@ -7,7 +7,6 @@ categories:
 tags:
   - statistics
   - teaching
-  - standard
 ---
 
 
