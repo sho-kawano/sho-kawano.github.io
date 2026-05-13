@@ -3,6 +3,7 @@ title: Meditation Resources
 last_modified_at:  2024-04-22
 categories:
   - meditation
+  - dharma
 ---
 
 Insight Meditation practice has profoundly changed my life.
