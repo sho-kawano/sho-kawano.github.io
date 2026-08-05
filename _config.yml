@@ -69,9 +69,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : ""
   links:
-    - label: "Resume"
+    - label: "CV"
       icon: "fa-regular fa-briefcase"
-      url: "https://drive.google.com/file/d/1vBWQm4DBzFMw50QrBdwAl3ZMFdooNTY0/view?usp=sharing"
+      url: "https://drive.google.com/file/d/1eSatQB3_tXbCvfE5bFByTXohH7DmMKV5/view?usp=sharing"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
@@ -82,9 +82,9 @@ author:
 
 footer:
   links:
-    - label: "Resume"
+    - label: "CV"
       icon: "fa-regular fa-briefcase"
-      url: "https://drive.google.com/file/d/1oZDvLYMSpwDmJY80rtoWXeGygmX4yCeY/view?usp=sharing"
+      url: "https://drive.google.com/file/d/1eSatQB3_tXbCvfE5bFByTXohH7DmMKV5/view?usp=sharing"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"

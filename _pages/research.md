@@ -33,9 +33,9 @@ April 2026:
 May 2025: 
 
 * My first dissertation project was published in the The Journal of the Royal Statistical Society, Series A (JRSS-A)!
-  + *Spatially Selected and Dependent Random Effects for Small Area Estimation with Application to Rent Burden*
-  + [Access the publication here](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnaf063/8167071?searchresult=1).
+  + *Spatially Selected and Dependent Random Effects for Small Area Estimation with Application to Rent Burden*, JRSS-A, 189(3), pp. 1308–1324.
+  + [Access the publication here](https://doi.org/10.1093/jrsssa/qnaf063).
   +  Presented the paper at JSM 2024 in Portland [(link to slides)](https://drive.google.com/file/d/14CTDxXFGC63Skf-RMU7ByqgaTIAOYqeD/view?usp=sharing).
-* This paper won the Wray Jackson Smith Award from the Government Statistics Section of the ASA
+* This paper won the Wray Jackson Smith Student Paper Award from the Government and Social Statistics Sections of the ASA
 * Code available [here](https://github.com/sho-kawano/ssd_paper_code)
 
