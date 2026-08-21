@@ -9,6 +9,8 @@ classes: wide
 ---
 
 
-Currently, I am a Ph.D Candidate at the Statistics Department at the University of California, Santa Cruz. I like to meditate, travel, cook, cafe, laugh, and spend time with my wife Laura. 
+I am a Ph.D Candidate in the Statistics Department at UC Santa Cruz, advised by [Zehang Li](https://zehangli.com) and [Paul Parker](https://www.paparkerstat.com). My research focuses on small area estimation, surveys, and model validation — see the [Research](/research/) page for papers and preprints.
 
-This site is meant to be a mostly professional but sometimes personal place where I discuss stuff I'm interested in.  
+Before grad school, I got a B.A. in Statistics from UC Berkeley and spent several years working in clean energy finance, followed by a shorter stint in low-income healthcare administration for the State of California.
+
+Outside of work, I like to meditate, travel, cook, cafe, laugh, and spend time with my wife Laura — this site is a mostly professional but occasionally personal place where I write about both.

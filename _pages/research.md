@@ -19,6 +19,8 @@ Some of my interests include:
 
 I am co-advised by [Zehang Li](https://zehangli.com) and [Paul Parker](https://www.paparkerstat.com).
 
+---
+
 **Updates**
 
 August 2026:
