@@ -3,7 +3,7 @@ permalink: /research/
 title: "Research"
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/gradschool3.jpeg">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/gradschool3.jpeg" style="max-width: 600px; width: 100%; display: block;">
 <sub>At JSM 2025 in Nashville</sub>
 
 

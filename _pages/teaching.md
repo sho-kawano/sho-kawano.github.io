@@ -3,12 +3,14 @@ permalink: /teaching/
 title: Teaching
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/gradschool2.jpeg">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/gradschool2.jpeg" style="max-width: 600px; width: 100%; display: block;">
 <sub>My first class I took at UCSC!</sub>
 
 **Pedagogy: Intro Stats Curriculum Re-Development**
 
 I worked with [Professor Marcela Alfaro Córdoba](https://malfaro2.github.io) on redeveloping the curriculum for one of the intro-statistics class at UC Santa Cruz (Stat 5).  I'm proud of this work, especially since Stat 5 is a class over 1,200 students take every year. 
+
+---
 
 **Teaching Assistance: Classes at UCSC**
 
