@@ -3,7 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/laura.jpeg">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/about-photo.jpeg" style="max-width: 500px; width: 100%; display: block;">
+<sub>Northerly Island in Chicago, IL</sub>
 
 People often describe me as energetic, funny, and open. I love traveling, cooking, cafe-ing, sports, exploring cities, and spending time with my partner Laura. I try to value ease, relationships, and connecting with the bigger world, more than stuff. 
 

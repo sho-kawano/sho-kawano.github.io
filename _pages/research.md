@@ -7,40 +7,35 @@ title: "Research"
 <sub>At JSM 2025 in Nashville</sub>
 
 
-My research mainly concerns models for surveys and small area estimation, and methods for evaluating them in settings where there's no ground truth. Small area estimation methods are what let us answer questions like "what is the childhood poverty rate in county X?" even when local survey data is too sparse to estimate directly.
+My research mainly focuses on two questions in survey sampling:
+
+1. How can we produce estimates that are both granular and reliable? For example, estimating the childhood poverty rate in county X from a survey designed for national or state-level estimates.
+2. How can we validate an estimate when there's no ground truth to check against?
+
+More recently, I've found these are the same statistical problem showing up in disaggregated evaluation of AI systems.
 
 Some of my interests include:
 
 * Small Area Estimation
-* Survey Sampling & Nonprobability Samples
-* Model Validation under No-Truth Scenarios
-* Areal/Discrete Spatial Modeling
+* AI Evaluation under a Limited Budget
+* Integrating Nonprobability Samples
+* Model Validation
 * Bayesian Methods
 
 I am co-advised by [Zehang Li](https://zehangli.com) and [Paul Parker](https://www.paparkerstat.com).
 
 ---
 
-**Updates**
+**Publications**
 
-August 2026:
+* **Sho Kawano**, Zehang R. Li, Paul A. Parker. *Prediction-Powered Smoothing and Validation for Disaggregated AI Evaluation*. Preprint, 2026. [arXiv](https://arxiv.org/abs/2609.20758) · [Code](https://github.com/sho-kawano/disagg-ai-eval)
 
-* New preprint (with a big group of collaborators!): *Nonprobability Samples for Small Area Estimation: A Review and Comparative Simulation Study*.
-* [Access the arXiv preprint here](https://arxiv.org/abs/2608.13673)
+* **Sho Kawano**, Daniel Vendesky, Qianyu Dong, Ethan Pawl, Paul A. Parker, Zehang R. Li, Scott Holan. *Nonprobability Samples for Small Area Estimation: A Review and Comparative Simulation Study*. Preprint, 2026. [arXiv](https://arxiv.org/abs/2608.13673) · [Code](https://github.com/dvedensk/NPS_SAE)
+   * S/O to the big group of UCSC / Mizzou collaborators!
 
-April 2026: 
+* **Sho Kawano**, Paul A. Parker, Zehang R. Li. *On Data Thinning for Model Validation in Small Area Estimation*. Preprint, 2026. [arXiv](https://arxiv.org/abs/2604.04141) · [Slides](https://drive.google.com/open?id=1bDnq9Bw-pc3r2DFQV_2eNxDhhHQMtrCZ&usp=drive_fs) · [Code](https://github.com/sho-kawano/dt_basis_select)
+   * This was a really rewarding and fascinating project to work on. Thanks to [Ameer Dharamshi](https://ameerd.github.io/) for the introduction to data thinning and the inspiration.
 
-* We have new preprint on how we can use Data Thinning for principled validation of Small Area Estimation models. This was a really rewarding and fascinating project to work on. 
-*  [Access the arXiv preprint here](https://arxiv.org/abs/2604.04141)
-*  [Slides on this paper](https://drive.google.com/open?id=1bDnq9Bw-pc3r2DFQV_2eNxDhhHQMtrCZ&usp=drive_fs) presented at [UW's STAB group](https://alanamcgovern.github.io/stablab/)
-*  Code available [here](https://github.com/sho-kawano/dt_basis_select)
-
-May 2025: 
-
-* My first dissertation project was published in the The Journal of the Royal Statistical Society, Series A (JRSS-A)!
-  + *Spatially Selected and Dependent Random Effects for Small Area Estimation with Application to Rent Burden*, JRSS-A, 189(3), pp. 1308–1324.
-  + [Access the publication here](https://doi.org/10.1093/jrsssa/qnaf063).
-  +  Presented the paper at JSM 2024 in Portland [(link to slides)](https://drive.google.com/file/d/14CTDxXFGC63Skf-RMU7ByqgaTIAOYqeD/view?usp=sharing).
-* This paper won the Wray Jackson Smith Scholarship from the Government and Social Statistics Sections of the ASA
-* Code available [here](https://github.com/sho-kawano/ssd_paper_code)
+* **Sho Kawano**, Paul A. Parker, Zehang R. Li. *Spatially Selected and Dependent Random Effects for Small Area Estimation with Application to Rent Burden*. JRSS-A, 189(3), 2026, pp. 1308–1324. [Publication](https://doi.org/10.1093/jrsssa/qnaf063) · [Slides](https://drive.google.com/file/d/14CTDxXFGC63Skf-RMU7ByqgaTIAOYqeD/view?usp=sharing) · [Code](https://github.com/sho-kawano/ssd_paper_code)
+   * Winner, Wray Jackson Smith Scholarship (ASA Government and Social Statistics Sections).
 

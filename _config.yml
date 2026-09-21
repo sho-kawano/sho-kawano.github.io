@@ -75,11 +75,11 @@ author:
       url: "https://drive.google.com/file/d/1trliWrOEPc6IArufL-oh_yqxZ8y9cnyF/view?usp=sharing"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/sho-kawano/"
     - label: "Polarsteps"
       icon: "fa-regular fa-compass"
       url: "https://www.polarsteps.com/shotime"
-      
+
 
 footer:
   links:
@@ -88,7 +88,7 @@ footer:
       url: "https://drive.google.com/file/d/1trliWrOEPc6IArufL-oh_yqxZ8y9cnyF/view?usp=sharing"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/sho-kawano/"
     - label: "Polarsteps"
       icon: "fa-regular fa-compass"
       url: "https://www.polarsteps.com/shotime"
