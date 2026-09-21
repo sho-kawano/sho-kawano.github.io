@@ -18,7 +18,7 @@ Some of my interests include:
 
 * Small Area Estimation
 * AI Evaluation under a Limited Budget
-* Integrating Nonprobability Samples
+* Principled use of Nonprobability Samples
 * Model Validation
 * Bayesian Methods
 
