@@ -15,10 +15,10 @@ I want to be remembered as someone with a big heart. Meditation practice is a bi
 #### My Life Arc
 
 * I was born in Tokyo, Japan
-* 2001: Moved to Hawaii, where I was lucky to have grown up! 
-* 2008: Moved to Sacramento, California in 2008
-* 2013-2017: Went to UC Berkeley, worked in clean energy
-* 2019 was a year of big changes. I got let go from my job, went on my first big solo backpacking trip, met my wife, moved back to Sacramento
+* Moved to Hawaii, where I was lucky to have grown up! 
+* Moved to Sacramento, California
+* UC Berkeley class of 2017. Worked in clean energy after
+* A year of big changes: I got let go from my job, went on my first big solo backpacking trip, met my wife, moved back to Sacramento
 * 2021: Started grad school at UCSC
 * 2024-2025: Got married, advanced to Ph.D candidacy. Went on leave to meditate for 3 months and travel for 6 months
 * 2025 (summer): Data Science Intern at Stripe in Chicago!
