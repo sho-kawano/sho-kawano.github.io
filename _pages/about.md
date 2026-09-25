@@ -17,8 +17,8 @@ I want to be remembered as someone with a big heart. Meditation practice is a bi
 * I was born in Tokyo, Japan
 * Moved to Hawaii, where I was lucky to have grown up! 
 * Moved to Sacramento, California
-* UC Berkeley class of 2017. Worked in clean energy after
-* A year of big changes: I got let go from my job, went on my first big solo backpacking trip, met my wife, moved back to Sacramento
+* UC Berkeley class of 2017, then a few years in clean energy
+* Getting let go from that job kicked off a lot of changes: my first big solo backpacking trip, meeting my wife, moving back to Sacramento
 * 2021: Started grad school at UCSC
 * 2024-2025: Got married, advanced to Ph.D candidacy. Went on leave to meditate for 3 months and travel for 6 months
 * 2025 (summer): Data Science Intern at Stripe in Chicago!
