@@ -19,6 +19,7 @@ Some of my interests include:
 * Small Area Estimation
 * Model Validation
 * AI Evaluation
+* Principled use of Nonprobability Samples
 * Bayesian Modeling
 
 I am co-advised by [Zehang Li](https://zehangli.com) and [Paul Parker](https://www.paparkerstat.com).
