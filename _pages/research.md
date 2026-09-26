@@ -17,10 +17,12 @@ More recently, I've found these are the same statistical problem showing up in d
 Some of my interests include:
 
 * Small Area Estimation
-* AI Evaluation under a Limited Budget
-* Principled use of Nonprobability Samples
+* AI Evaluation
+* Survey Sampling
 * Model Validation
-* Bayesian Methods
+* Principled use of Nonprobability Samples
+* Bayesian Modeling
+* Official Statistics and Public Policy
 
 I am co-advised by [Zehang Li](https://zehangli.com) and [Paul Parker](https://www.paparkerstat.com).
 

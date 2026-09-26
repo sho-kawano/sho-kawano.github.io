@@ -72,7 +72,10 @@ author:
   links:
     - label: "CV"
       icon: "fa-solid fa-fw fa-briefcase"
-      url: "https://drive.google.com/file/d/1trliWrOEPc6IArufL-oh_yqxZ8y9cnyF/view?usp=sharing"
+      url: "https://drive.google.com/file/d/152QXC2IHSiFOpFwVfCWEhC8qWTSjycTd/view?usp=sharing"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=0qkiXB4AAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sho-kawano/"
@@ -85,7 +88,10 @@ footer:
   links:
     - label: "CV"
       icon: "fa-solid fa-fw fa-briefcase"
-      url: "https://drive.google.com/file/d/1trliWrOEPc6IArufL-oh_yqxZ8y9cnyF/view?usp=sharing"
+      url: "https://drive.google.com/file/d/152QXC2IHSiFOpFwVfCWEhC8qWTSjycTd/view?usp=sharing"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=0qkiXB4AAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sho-kawano/"
