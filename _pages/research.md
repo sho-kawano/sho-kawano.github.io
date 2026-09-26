@@ -7,7 +7,7 @@ title: "Research"
 <sub>At JSM 2025 in Nashville</sub>
 
 
-My research mainly focuses on two questions in survey sampling:
+My research mainly focuses on two questions in survey methodology:
 
 1. How can we produce estimates that are both granular and reliable? For example, estimating the childhood poverty rate in county X from a survey designed for national or state-level estimates.
 2. How can we validate an estimate when there's no ground truth to check against?
@@ -17,12 +17,9 @@ More recently, I've found these are the same statistical problem showing up in d
 Some of my interests include:
 
 * Small Area Estimation
-* AI Evaluation
-* Survey Sampling
 * Model Validation
-* Principled use of Nonprobability Samples
+* AI Evaluation
 * Bayesian Modeling
-* Official Statistics and Public Policy
 
 I am co-advised by [Zehang Li](https://zehangli.com) and [Paul Parker](https://www.paparkerstat.com).
 
