@@ -9,7 +9,7 @@ classes: wide
 ---
 
 
-I am a Data Scientist at Stripe.
+I am currently a data scientist at Stripe.
 
 I'm also wrapping up my Ph.D. in Statistics at UC Santa Cruz, advised by [Zehang Li](https://zehangli.com) and [Paul Parker](https://www.paparkerstat.com). My research focuses on models and validation for surveys, and more recently, disaggregated AI evaluation — see the [Research](/research/) page for more.
 
