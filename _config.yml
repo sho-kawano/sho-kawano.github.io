@@ -68,7 +68,7 @@ plugins:
 author:
   name   : "Sho Kawano"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : ""
+  bio    : "PhD candidate, UC Santa Cruz"
   links:
     - label: "CV"
       icon: "fa-solid fa-fw fa-briefcase"

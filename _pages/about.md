@@ -22,5 +22,5 @@ I want to be remembered as someone with a big heart. Meditation practice is a bi
 * 2021: Started grad school at UCSC
 * 2024-2025: Got married, advanced to Ph.D candidacy. Went on leave to meditate for 3 months and travel for 6 months
 * 2025 (summer): Data Science Intern at Stripe in Chicago!
-* Now: Back to finish my Ph.D! 
+* 2026: Joined Stripe as a Data Scientist!
 
